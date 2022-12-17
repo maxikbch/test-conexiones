@@ -1,0 +1,413 @@
+[INFO] 23:25:34:350 Console/(20615:20615): IP Cargada Correctamente: 0.0.0.0
+[INFO] 23:25:34:350 Console/(20615:20615): Puerto Cargado Correctamente: 8000
+[INFO] 23:25:34:350 Console/(20615:20615): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 23:25:34:350 Console/(20615:20615): Archivo de configuracion cargado correctamente
+[INFO] 23:25:34:350 Console/(20615:20615): Lei la ip 0.0.0.0
+[INFO] 23:25:34:350 Console/(20615:20615): Lei el puerto 8000
+[ERROR] 23:25:34:351 Console/(20615:20615): Error al conectar (a SERVER KERNEL)
+
+[INFO] 00:34:15:796 Console/(4244:4244): IP Cargada Correctamente: 0.0.0.0
+[INFO] 00:34:15:880 Console/(4244:4244): Puerto Cargado Correctamente: 8000
+[INFO] 00:34:15:895 Console/(4244:4244): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 00:34:15:909 Console/(4244:4244): Archivo de configuracion cargado correctamente
+[INFO] 00:34:15:911 Console/(4244:4244): Lei la ip 0.0.0.0
+[INFO] 00:34:15:916 Console/(4244:4244): Lei el puerto 8000
+[ERROR] 00:34:15:948 Console/(4244:4244): Error al conectar (a SERVER KERNEL)
+
+[INFO] 00:37:01:293 Console/(4271:4271): IP Cargada Correctamente: 0.0.0.0
+[INFO] 00:37:01:363 Console/(4271:4271): Puerto Cargado Correctamente: 8000
+[INFO] 00:37:01:369 Console/(4271:4271): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 00:37:01:377 Console/(4271:4271): Archivo de configuracion cargado correctamente
+[INFO] 00:37:01:378 Console/(4271:4271): Lei la ip 0.0.0.0
+[INFO] 00:37:01:379 Console/(4271:4271): Lei el puerto 8000
+[ERROR] 00:37:01:403 Console/(4271:4271): Error al conectar (a SERVER KERNEL)
+
+[INFO] 00:40:01:627 Console/(4451:4451): IP Cargada Correctamente: 0.0.0.0
+[INFO] 00:40:01:695 Console/(4451:4451): Puerto Cargado Correctamente: 8000
+[INFO] 00:40:01:706 Console/(4451:4451): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 00:40:01:715 Console/(4451:4451): Archivo de configuracion cargado correctamente
+[INFO] 00:40:01:722 Console/(4451:4451): Lei la ip 0.0.0.0
+[INFO] 00:40:01:723 Console/(4451:4451): Lei el puerto 8000
+[INFO] 00:40:01:758 Console/(4451:4451): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 00:41:11:977 Console/(4476:4476): IP Cargada Correctamente: 0.0.0.0
+[INFO] 00:41:12:059 Console/(4476:4476): Puerto Cargado Correctamente: 8000
+[INFO] 00:41:12:071 Console/(4476:4476): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 00:41:12:082 Console/(4476:4476): Archivo de configuracion cargado correctamente
+[INFO] 00:41:12:083 Console/(4476:4476): Lei la ip 0.0.0.0
+[INFO] 00:41:12:086 Console/(4476:4476): Lei el puerto 8000
+[ERROR] 00:41:12:108 Console/(4476:4476): Error al conectar (a SERVER KERNEL)
+
+[INFO] 23:46:31:658 Console/(5501:5501): IP Cargada Correctamente: 0.0.0.0
+[INFO] 23:46:31:659 Console/(5501:5501): Puerto Cargado Correctamente: 8000
+[INFO] 23:46:31:659 Console/(5501:5501): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 23:46:31:659 Console/(5501:5501): Archivo de configuracion cargado correctamente
+[INFO] 23:46:31:659 Console/(5501:5501): Lei la ip 0.0.0.0
+[INFO] 23:46:31:659 Console/(5501:5501): Lei el puerto 8000
+[ERROR] 23:46:31:659 Console/(5501:5501): Error al conectar (a SERVER KERNEL)
+
+[INFO] 23:46:53:764 Console/(5633:5633): IP Cargada Correctamente: 0.0.0.0
+[INFO] 23:46:53:764 Console/(5633:5633): Puerto Cargado Correctamente: 8000
+[INFO] 23:46:53:764 Console/(5633:5633): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 23:46:53:764 Console/(5633:5633): Archivo de configuracion cargado correctamente
+[INFO] 23:46:53:764 Console/(5633:5633): Lei la ip 0.0.0.0
+[INFO] 23:46:53:764 Console/(5633:5633): Lei el puerto 8000
+[INFO] 23:46:53:765 Console/(5633:5633): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 23:47:57:552 Console/(5697:5697): IP Cargada Correctamente: 0.0.0.0
+[INFO] 23:47:57:552 Console/(5697:5697): Puerto Cargado Correctamente: 8000
+[INFO] 23:47:57:552 Console/(5697:5697): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 23:47:57:552 Console/(5697:5697): Archivo de configuracion cargado correctamente
+[INFO] 23:47:57:552 Console/(5697:5697): Lei la ip 0.0.0.0
+[INFO] 23:47:57:552 Console/(5697:5697): Lei el puerto 8000
+[INFO] 23:47:57:552 Console/(5697:5697): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 23:49:00:536 Console/(5853:5853): IP Cargada Correctamente: 0.0.0.0
+[INFO] 23:49:00:536 Console/(5853:5853): Puerto Cargado Correctamente: 8000
+[INFO] 23:49:00:536 Console/(5853:5853): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 23:49:00:536 Console/(5853:5853): Archivo de configuracion cargado correctamente
+[INFO] 23:49:00:536 Console/(5853:5853): Lei la ip 0.0.0.0
+[INFO] 23:49:00:536 Console/(5853:5853): Lei el puerto 8000
+[INFO] 23:49:00:537 Console/(5853:5853): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 23:50:21:768 Console/(5918:5918): IP Cargada Correctamente: 0.0.0.0
+[INFO] 23:50:21:768 Console/(5918:5918): Puerto Cargado Correctamente: 8000
+[INFO] 23:50:21:768 Console/(5918:5918): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 23:50:21:768 Console/(5918:5918): Archivo de configuracion cargado correctamente
+[INFO] 23:50:21:768 Console/(5918:5918): Lei la ip 0.0.0.0
+[INFO] 23:50:21:768 Console/(5918:5918): Lei el puerto 8000
+[INFO] 23:50:21:769 Console/(5918:5918): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 23:55:44:019 Console/(6093:6093): IP Cargada Correctamente: 0.0.0.0
+[INFO] 23:55:44:019 Console/(6093:6093): Puerto Cargado Correctamente: 8000
+[INFO] 23:55:44:019 Console/(6093:6093): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 23:55:44:019 Console/(6093:6093): Archivo de configuracion cargado correctamente
+[INFO] 23:55:44:019 Console/(6093:6093): Lei la ip 0.0.0.0
+[INFO] 23:55:44:019 Console/(6093:6093): Lei el puerto 8000
+[INFO] 23:55:44:019 Console/(6093:6093): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 23:56:03:096 Console/(6139:6139): IP Cargada Correctamente: 0.0.0.0
+[INFO] 23:56:03:096 Console/(6139:6139): Puerto Cargado Correctamente: 8000
+[INFO] 23:56:03:096 Console/(6139:6139): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 23:56:03:096 Console/(6139:6139): Archivo de configuracion cargado correctamente
+[INFO] 23:56:03:096 Console/(6139:6139): Lei la ip 0.0.0.0
+[INFO] 23:56:03:096 Console/(6139:6139): Lei el puerto 8000
+[INFO] 23:56:03:097 Console/(6139:6139): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 00:12:02:400 Console/(6761:6761): IP Cargada Correctamente: 0.0.0.0
+[INFO] 00:12:02:400 Console/(6761:6761): Puerto Cargado Correctamente: 8000
+[INFO] 00:12:02:400 Console/(6761:6761): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 00:12:02:400 Console/(6761:6761): Archivo de configuracion cargado correctamente
+[INFO] 00:12:02:400 Console/(6761:6761): Lei la ip 0.0.0.0
+[INFO] 00:12:02:400 Console/(6761:6761): Lei el puerto 8000
+[INFO] 00:12:02:402 Console/(6761:6761): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 00:13:02:137 Console/(6817:6817): IP Cargada Correctamente: 0.0.0.0
+[INFO] 00:13:02:137 Console/(6817:6817): Puerto Cargado Correctamente: 8000
+[INFO] 00:13:02:137 Console/(6817:6817): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 00:13:02:137 Console/(6817:6817): Archivo de configuracion cargado correctamente
+[INFO] 00:13:02:137 Console/(6817:6817): Lei la ip 0.0.0.0
+[INFO] 00:13:02:137 Console/(6817:6817): Lei el puerto 8000
+[INFO] 00:13:02:139 Console/(6817:6817): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 00:14:29:791 Console/(6951:6951): IP Cargada Correctamente: 0.0.0.0
+[INFO] 00:14:29:791 Console/(6951:6951): Puerto Cargado Correctamente: 8000
+[INFO] 00:14:29:791 Console/(6951:6951): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 00:14:29:791 Console/(6951:6951): Archivo de configuracion cargado correctamente
+[INFO] 00:14:29:791 Console/(6951:6951): Lei la ip 0.0.0.0
+[INFO] 00:14:29:791 Console/(6951:6951): Lei el puerto 8000
+[INFO] 00:14:29:791 Console/(6951:6951): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 00:15:28:847 Console/(7020:7020): IP Cargada Correctamente: 0.0.0.0
+[INFO] 00:15:28:847 Console/(7020:7020): Puerto Cargado Correctamente: 8000
+[INFO] 00:15:28:847 Console/(7020:7020): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 00:15:28:847 Console/(7020:7020): Archivo de configuracion cargado correctamente
+[INFO] 00:15:28:847 Console/(7020:7020): Lei la ip 0.0.0.0
+[INFO] 00:15:28:847 Console/(7020:7020): Lei el puerto 8000
+[INFO] 00:15:28:847 Console/(7020:7020): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 00:15:50:103 Console/(7087:7087): IP Cargada Correctamente: 0.0.0.0
+[INFO] 00:15:50:103 Console/(7087:7087): Puerto Cargado Correctamente: 8000
+[INFO] 00:15:50:103 Console/(7087:7087): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 00:15:50:103 Console/(7087:7087): Archivo de configuracion cargado correctamente
+[INFO] 00:15:50:103 Console/(7087:7087): Lei la ip 0.0.0.0
+[INFO] 00:15:50:103 Console/(7087:7087): Lei el puerto 8000
+[INFO] 00:15:50:103 Console/(7087:7087): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 00:16:35:232 Console/(7149:7149): IP Cargada Correctamente: 0.0.0.0
+[INFO] 00:16:35:232 Console/(7149:7149): Puerto Cargado Correctamente: 8000
+[INFO] 00:16:35:232 Console/(7149:7149): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 00:16:35:232 Console/(7149:7149): Archivo de configuracion cargado correctamente
+[INFO] 00:16:35:232 Console/(7149:7149): Lei la ip 0.0.0.0
+[INFO] 00:16:35:232 Console/(7149:7149): Lei el puerto 8000
+[INFO] 00:16:35:234 Console/(7149:7149): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 00:17:11:560 Console/(7190:7190): IP Cargada Correctamente: 0.0.0.0
+[INFO] 00:17:11:561 Console/(7190:7190): Puerto Cargado Correctamente: 8000
+[INFO] 00:17:11:561 Console/(7190:7190): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 00:17:11:561 Console/(7190:7190): Archivo de configuracion cargado correctamente
+[INFO] 00:17:11:561 Console/(7190:7190): Lei la ip 0.0.0.0
+[INFO] 00:17:11:561 Console/(7190:7190): Lei el puerto 8000
+[INFO] 00:17:11:561 Console/(7190:7190): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 00:18:02:609 Console/(7260:7260): IP Cargada Correctamente: 0.0.0.0
+[INFO] 00:18:02:609 Console/(7260:7260): Puerto Cargado Correctamente: 8000
+[INFO] 00:18:02:609 Console/(7260:7260): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 00:18:02:609 Console/(7260:7260): Archivo de configuracion cargado correctamente
+[INFO] 00:18:02:609 Console/(7260:7260): Lei la ip 0.0.0.0
+[INFO] 00:18:02:609 Console/(7260:7260): Lei el puerto 8000
+[INFO] 00:18:02:611 Console/(7260:7260): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 00:18:47:145 Console/(7337:7337): IP Cargada Correctamente: 0.0.0.0
+[INFO] 00:18:47:145 Console/(7337:7337): Puerto Cargado Correctamente: 8000
+[INFO] 00:18:47:145 Console/(7337:7337): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 00:18:47:145 Console/(7337:7337): Archivo de configuracion cargado correctamente
+[INFO] 00:18:47:145 Console/(7337:7337): Lei la ip 0.0.0.0
+[INFO] 00:18:47:145 Console/(7337:7337): Lei el puerto 8000
+[INFO] 00:18:47:146 Console/(7337:7337): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 00:20:45:977 Console/(7444:7444): IP Cargada Correctamente: 0.0.0.0
+[INFO] 00:20:45:977 Console/(7444:7444): Puerto Cargado Correctamente: 8000
+[INFO] 00:20:45:977 Console/(7444:7444): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 00:20:45:977 Console/(7444:7444): Archivo de configuracion cargado correctamente
+[INFO] 00:20:45:977 Console/(7444:7444): Lei la ip 0.0.0.0
+[INFO] 00:20:45:977 Console/(7444:7444): Lei el puerto 8000
+[INFO] 00:20:45:977 Console/(7444:7444): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 00:20:47:472 Console/(7444:7444): TERMINANDO_EL_LOG
+[INFO] 00:22:56:929 Console/(7556:7556): IP Cargada Correctamente: 0.0.0.0
+[INFO] 00:22:56:929 Console/(7556:7556): Puerto Cargado Correctamente: 8000
+[INFO] 00:22:56:929 Console/(7556:7556): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 00:22:56:929 Console/(7556:7556): Archivo de configuracion cargado correctamente
+[INFO] 00:22:56:929 Console/(7556:7556): Lei la ip 0.0.0.0
+[INFO] 00:22:56:929 Console/(7556:7556): Lei el puerto 8000
+[INFO] 00:22:56:930 Console/(7556:7556): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 00:22:57:736 Console/(7556:7556): CONEXIONES LIBERADAS
+[INFO] 00:22:57:736 Console/(7556:7556): TERMINANDO_EL_LOG
+[INFO] 21:04:53:506 Console/(11478:11478): IP Cargada Correctamente: 0.0.0.0
+[INFO] 21:04:53:525 Console/(11478:11478): Puerto Cargado Correctamente: 8000
+[INFO] 21:04:53:525 Console/(11478:11478): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 21:04:53:525 Console/(11478:11478): Archivo de configuracion cargado correctamente
+[INFO] 21:04:53:525 Console/(11478:11478): Lei la ip 0.0.0.0
+[INFO] 21:04:53:525 Console/(11478:11478): Lei el puerto 8000
+[ERROR] 21:04:53:525 Console/(11478:11478): Error al conectar (a SERVER KERNEL)
+
+[INFO] 21:05:08:759 Console/(11480:11480): IP Cargada Correctamente: 0.0.0.0
+[INFO] 21:05:08:827 Console/(11480:11480): Puerto Cargado Correctamente: 8000
+[INFO] 21:05:08:833 Console/(11480:11480): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 21:05:08:841 Console/(11480:11480): Archivo de configuracion cargado correctamente
+[INFO] 21:05:08:842 Console/(11480:11480): Lei la ip 0.0.0.0
+[INFO] 21:05:08:844 Console/(11480:11480): Lei el puerto 8000
+[ERROR] 21:05:08:865 Console/(11480:11480): Error al conectar (a SERVER KERNEL)
+
+[INFO] 22:34:30:897 Console/(11668:11668): IP Cargada Correctamente: 0.0.0.0
+[INFO] 22:34:30:965 Console/(11668:11668): Puerto Cargado Correctamente: 8000
+[INFO] 22:34:30:971 Console/(11668:11668): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 22:34:30:976 Console/(11668:11668): Archivo de configuracion cargado correctamente
+[INFO] 22:34:30:978 Console/(11668:11668): Lei la ip 0.0.0.0
+[INFO] 22:34:30:979 Console/(11668:11668): Lei el puerto 8000
+[INFO] 22:34:31:005 Console/(11668:11668): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 22:34:34:754 Console/(11668:11668): CONEXIONES LIBERADAS
+[INFO] 22:34:34:756 Console/(11668:11668): TERMINANDO_EL_LOG
+[INFO] 18:05:47:519 Console/(12363:12363): IP Cargada Correctamente: 0.0.0.0
+[INFO] 18:05:47:587 Console/(12363:12363): Puerto Cargado Correctamente: 8000
+[INFO] 18:05:47:593 Console/(12363:12363): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 18:05:47:610 Console/(12363:12363): Archivo de configuracion cargado correctamente
+[INFO] 18:05:47:611 Console/(12363:12363): Lei la ip 0.0.0.0
+[INFO] 18:05:47:612 Console/(12363:12363): Lei el puerto 8000
+[INFO] 18:05:47:653 Console/(12363:12363): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 18:05:53:745 Console/(12363:12363): CONEXIONES LIBERADAS
+[INFO] 18:05:53:751 Console/(12363:12363): TERMINADA_LA_CONFIG
+[INFO] 18:05:53:751 Console/(12363:12363): TERMINANDO_EL_LOG
+[INFO] 05:53:46:170 Console/(41913:41913): IP Cargada Correctamente: 0.0.0.0
+[INFO] 05:53:46:257 Console/(41913:41913): Puerto Cargado Correctamente: 8000
+[INFO] 05:53:46:263 Console/(41913:41913): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 05:53:46:269 Console/(41913:41913): Archivo de configuracion cargado correctamente
+[INFO] 05:53:46:271 Console/(41913:41913): Lei la ip 0.0.0.0
+[INFO] 05:53:46:271 Console/(41913:41913): Lei el puerto 8000
+[INFO] 05:53:46:303 Console/(41913:41913): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 05:54:54:349 Console/(42042:42042): IP Cargada Correctamente: 0.0.0.0
+[INFO] 05:54:54:419 Console/(42042:42042): Puerto Cargado Correctamente: 8000
+[INFO] 05:54:54:425 Console/(42042:42042): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 05:54:54:433 Console/(42042:42042): Archivo de configuracion cargado correctamente
+[INFO] 05:54:54:435 Console/(42042:42042): Lei la ip 0.0.0.0
+[INFO] 05:54:54:436 Console/(42042:42042): Lei el puerto 8000
+[INFO] 05:54:54:463 Console/(42042:42042): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 05:55:18:264 Console/(42120:42120): IP Cargada Correctamente: 0.0.0.0
+[INFO] 05:55:18:336 Console/(42120:42120): Puerto Cargado Correctamente: 8000
+[INFO] 05:55:18:345 Console/(42120:42120): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 05:55:18:358 Console/(42120:42120): Archivo de configuracion cargado correctamente
+[INFO] 05:55:18:362 Console/(42120:42120): Lei la ip 0.0.0.0
+[INFO] 05:55:18:363 Console/(42120:42120): Lei el puerto 8000
+[INFO] 05:55:18:398 Console/(42120:42120): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 05:56:05:933 Console/(42198:42198): IP Cargada Correctamente: 0.0.0.0
+[INFO] 05:56:06:011 Console/(42198:42198): Puerto Cargado Correctamente: 8000
+[INFO] 05:56:06:018 Console/(42198:42198): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 05:56:06:026 Console/(42198:42198): Archivo de configuracion cargado correctamente
+[INFO] 05:56:06:028 Console/(42198:42198): Lei la ip 0.0.0.0
+[INFO] 05:56:06:028 Console/(42198:42198): Lei el puerto 8000
+[INFO] 05:56:06:067 Console/(42198:42198): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 05:56:26:767 Console/(42198:42198): CONEXIONES LIBERADAS
+[INFO] 05:56:26:774 Console/(42198:42198): TERMINADA_LA_CONFIG
+[INFO] 05:56:26:774 Console/(42198:42198): TERMINANDO_EL_LOG
+[INFO] 05:57:40:541 Console/(42283:42283): IP Cargada Correctamente: 0.0.0.0
+[INFO] 05:57:40:614 Console/(42283:42283): Puerto Cargado Correctamente: 8000
+[INFO] 05:57:40:620 Console/(42283:42283): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 05:57:40:626 Console/(42283:42283): Archivo de configuracion cargado correctamente
+[INFO] 05:57:40:628 Console/(42283:42283): Lei la ip 0.0.0.0
+[INFO] 05:57:40:628 Console/(42283:42283): Lei el puerto 8000
+[INFO] 05:57:40:650 Console/(42283:42283): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 05:57:45:159 Console/(42283:42283): CONEXIONES LIBERADAS
+[INFO] 05:57:45:166 Console/(42283:42283): TERMINADA_LA_CONFIG
+[INFO] 05:57:45:167 Console/(42283:42283): TERMINANDO_EL_LOG
+[INFO] 05:59:29:479 Console/(42289:42289): IP Cargada Correctamente: 0.0.0.0
+[INFO] 05:59:29:549 Console/(42289:42289): Puerto Cargado Correctamente: 8000
+[INFO] 05:59:29:555 Console/(42289:42289): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 05:59:29:565 Console/(42289:42289): Archivo de configuracion cargado correctamente
+[INFO] 05:59:29:566 Console/(42289:42289): Lei la ip 0.0.0.0
+[INFO] 05:59:29:571 Console/(42289:42289): Lei el puerto 8000
+[INFO] 05:59:29:605 Console/(42289:42289): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 05:59:31:024 Console/(42289:42289): CONEXIONES LIBERADAS
+[INFO] 05:59:31:034 Console/(42289:42289): TERMINADA_LA_CONFIG
+[INFO] 05:59:31:035 Console/(42289:42289): TERMINANDO_EL_LOG
+[INFO] 06:01:04:800 Console/(42400:42400): IP Cargada Correctamente: 0.0.0.0
+[INFO] 06:01:04:870 Console/(42400:42400): Puerto Cargado Correctamente: 8000
+[INFO] 06:01:04:876 Console/(42400:42400): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 06:01:04:882 Console/(42400:42400): Archivo de configuracion cargado correctamente
+[INFO] 06:01:04:883 Console/(42400:42400): Lei la ip 0.0.0.0
+[INFO] 06:01:04:884 Console/(42400:42400): Lei el puerto 8000
+[INFO] 06:01:04:913 Console/(42400:42400): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 06:01:05:855 Console/(42400:42400): CONEXIONES LIBERADAS
+[INFO] 06:01:05:861 Console/(42400:42400): TERMINADA_LA_CONFIG
+[INFO] 06:01:05:861 Console/(42400:42400): TERMINANDO_EL_LOG
+[INFO] 06:30:31:845 Console/(43506:43506): IP Cargada Correctamente: 0.0.0.0
+[INFO] 06:30:31:912 Console/(43506:43506): Puerto Cargado Correctamente: 8000
+[INFO] 06:30:31:918 Console/(43506:43506): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 06:30:31:923 Console/(43506:43506): Archivo de configuracion cargado correctamente
+[INFO] 06:30:31:924 Console/(43506:43506): Lei la ip 0.0.0.0
+[INFO] 06:30:31:925 Console/(43506:43506): Lei el puerto 8000
+[ERROR] 06:30:31:946 Console/(43506:43506): Error al conectar (a SERVER KERNEL)
+
+[INFO] 06:35:00:115 Console/(43663:43663): IP Cargada Correctamente: 0.0.0.0
+[INFO] 06:35:00:184 Console/(43663:43663): Puerto Cargado Correctamente: 8000
+[INFO] 06:35:00:190 Console/(43663:43663): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 06:35:00:200 Console/(43663:43663): Archivo de configuracion cargado correctamente
+[INFO] 06:35:00:203 Console/(43663:43663): Lei la ip 0.0.0.0
+[INFO] 06:35:00:204 Console/(43663:43663): Lei el puerto 8000
+[ERROR] 06:35:00:237 Console/(43663:43663): Error al conectar (a SERVER KERNEL)
+
+[INFO] 06:38:53:638 Console/(43893:43893): IP Cargada Correctamente: 0.0.0.0
+[INFO] 06:38:53:709 Console/(43893:43893): Puerto Cargado Correctamente: 8000
+[INFO] 06:38:53:715 Console/(43893:43893): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 06:38:53:723 Console/(43893:43893): Archivo de configuracion cargado correctamente
+[INFO] 06:38:53:724 Console/(43893:43893): Lei la ip 0.0.0.0
+[INFO] 06:38:53:725 Console/(43893:43893): Lei el puerto 8000
+[ERROR] 06:38:53:757 Console/(43893:43893): Error al conectar (a SERVER KERNEL)
+
+[INFO] 06:40:49:798 Console/(44193:44193): IP Cargada Correctamente: 0.0.0.0
+[INFO] 06:40:49:868 Console/(44193:44193): Puerto Cargado Correctamente: 8000
+[INFO] 06:40:49:874 Console/(44193:44193): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 06:40:49:888 Console/(44193:44193): Archivo de configuracion cargado correctamente
+[INFO] 06:40:49:889 Console/(44193:44193): Lei la ip 0.0.0.0
+[INFO] 06:40:49:890 Console/(44193:44193): Lei el puerto 8000
+[ERROR] 06:40:49:924 Console/(44193:44193): Error al conectar (a SERVER KERNEL)
+
+[INFO] 06:41:06:718 Console/(44205:44205): IP Cargada Correctamente: 0.0.0.0
+[INFO] 06:41:06:786 Console/(44205:44205): Puerto Cargado Correctamente: 8000
+[INFO] 06:41:06:792 Console/(44205:44205): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 06:41:06:801 Console/(44205:44205): Archivo de configuracion cargado correctamente
+[INFO] 06:41:06:807 Console/(44205:44205): Lei la ip 0.0.0.0
+[INFO] 06:41:06:808 Console/(44205:44205): Lei el puerto 8000
+[INFO] 06:41:06:848 Console/(44205:44205): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 06:41:08:096 Console/(44205:44205): CONEXIONES LIBERADAS
+[INFO] 06:41:08:107 Console/(44205:44205): TERMINADA_LA_CONFIG
+[INFO] 06:41:08:108 Console/(44205:44205): TERMINANDO_EL_LOG
+[INFO] 06:44:45:356 Console/(44391:44391): IP Cargada Correctamente: 0.0.0.0
+[INFO] 06:44:45:429 Console/(44391:44391): Puerto Cargado Correctamente: 8000
+[INFO] 06:44:45:436 Console/(44391:44391): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 06:44:45:442 Console/(44391:44391): Archivo de configuracion cargado correctamente
+[INFO] 06:44:45:443 Console/(44391:44391): Lei la ip 0.0.0.0
+[INFO] 06:44:45:444 Console/(44391:44391): Lei el puerto 8000
+[INFO] 06:44:45:467 Console/(44391:44391): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 06:44:47:057 Console/(44391:44391): CONEXIONES LIBERADAS
+[INFO] 06:44:47:059 Console/(44391:44391): TERMINADA_LA_CONFIG
+[INFO] 06:44:47:062 Console/(44391:44391): TERMINANDO_EL_LOG
+[INFO] 19:05:56:271 Console/(55539:55539): Liberando config
+[INFO] 19:05:58:386 Console/(55539:55539): IP Cargada Correctamente: 0.0.0.0
+[INFO] 19:05:58:386 Console/(55539:55539): Puerto Cargado Correctamente: 8000
+[INFO] 19:05:58:386 Console/(55539:55539): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 19:05:58:386 Console/(55539:55539): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 19:05:58:386 Console/(55539:55539): Archivo de configuracion cargado correctamente
+[INFO] 19:05:59:083 Console/(55539:55539): Lei la ip 0.0.0.0
+[INFO] 19:05:59:083 Console/(55539:55539): Lei el puerto 8000
+[ERROR] 19:05:59:083 Console/(55539:55539): Error al conectar (a SERVER KERNEL)
+
+[INFO] 19:06:55:005 Console/(55769:55769): Liberando config
+[INFO] 19:06:55:351 Console/(55769:55769): IP Cargada Correctamente: 0.0.0.0
+[INFO] 19:06:55:351 Console/(55769:55769): Puerto Cargado Correctamente: 8000
+[INFO] 19:06:55:351 Console/(55769:55769): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 19:06:55:351 Console/(55769:55769): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 19:06:55:351 Console/(55769:55769): Archivo de configuracion cargado correctamente
+[INFO] 19:06:56:275 Console/(55769:55769): Lei la ip 0.0.0.0
+[INFO] 19:06:56:275 Console/(55769:55769): Lei el puerto 8000
+[INFO] 19:06:56:276 Console/(55769:55769): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 19:07:33:288 Console/(55769:55769): Creo el paquete a enviar
+[INFO] 19:07:33:288 Console/(55769:55769): AGREGAR PAQUETE ok
+[INFO] 19:07:33:288 Console/(55769:55769): Se envio el paquete
+[INFO] 19:10:33:155 Console/(55769:55813): DISCONNECT!
+[INFO] 19:16:31:041 Console/(56391:56391): Liberando config
+[INFO] 19:16:31:189 Console/(56391:56391): IP Cargada Correctamente: 0.0.0.0
+[INFO] 19:16:31:189 Console/(56391:56391): Puerto Cargado Correctamente: 8000
+[INFO] 19:16:31:189 Console/(56391:56391): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 19:16:31:189 Console/(56391:56391): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 19:16:31:189 Console/(56391:56391): Archivo de configuracion cargado correctamente
+[INFO] 19:16:31:847 Console/(56391:56391): Lei la ip 0.0.0.0
+[INFO] 19:16:31:847 Console/(56391:56391): Lei el puerto 8000
+[INFO] 19:16:31:847 Console/(56391:56391): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 19:16:49:709 Console/(56391:56391): Creo el paquete a enviar
+[INFO] 19:16:49:709 Console/(56391:56391): AGREGAR PAQUETE ok
+[INFO] 19:16:49:709 Console/(56391:56391): Se envio el paquete
+[INFO] 19:18:14:958 Console/(56843:56843): Liberando config
+[INFO] 19:18:14:958 Console/(56843:56843): IP Cargada Correctamente: 0.0.0.0
+[INFO] 19:18:14:958 Console/(56843:56843): Puerto Cargado Correctamente: 8000
+[INFO] 19:18:14:958 Console/(56843:56843): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 19:18:14:958 Console/(56843:56843): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 19:18:14:958 Console/(56843:56843): Archivo de configuracion cargado correctamente
+[INFO] 19:18:14:958 Console/(56843:56843): Lei la ip 0.0.0.0
+[INFO] 19:18:14:958 Console/(56843:56843): Lei el puerto 8000
+[ERROR] 19:18:14:959 Console/(56843:56843): Error al conectar (a SERVER KERNEL)
+
+[INFO] 19:18:51:066 Console/(57052:57052): Liberando config
+[INFO] 19:18:51:066 Console/(57052:57052): IP Cargada Correctamente: 0.0.0.0
+[INFO] 19:18:51:066 Console/(57052:57052): Puerto Cargado Correctamente: 8000
+[INFO] 19:18:51:066 Console/(57052:57052): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 19:18:51:066 Console/(57052:57052): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 19:18:51:066 Console/(57052:57052): Archivo de configuracion cargado correctamente
+[INFO] 19:18:51:066 Console/(57052:57052): Lei la ip 0.0.0.0
+[INFO] 19:18:51:066 Console/(57052:57052): Lei el puerto 8000
+[INFO] 19:18:51:067 Console/(57052:57052): Cliente conectado en 0.0.0.0:8000 (a SERVER KERNEL)
+
+[INFO] 19:55:20:830 Console/(68090:68090): Liberando config
+[INFO] 19:55:20:860 Console/(68090:68090): IP Cargada Correctamente: 0.0.0.0
+[INFO] 19:55:20:860 Console/(68090:68090): Puerto Cargado Correctamente: 8000
+[INFO] 19:55:20:860 Console/(68090:68090): EL tiempo en pantalla fue cargado correctamente: 2000
+[INFO] 19:55:20:860 Console/(68090:68090): Los tamanios de los segmentos fueron cargados correctamente, Cantidad :4
+[INFO] 19:55:20:860 Console/(68090:68090): Archivo de configuracion cargado correctamente
+[INFO] 19:55:20:860 Console/(68090:68090): Lei la ip 0.0.0.0
+[INFO] 19:55:20:860 Console/(68090:68090): Lei el puerto 8000
+[ERROR] 19:55:20:860 Console/(68090:68090): Error al conectar (a SERVER KERNEL)
+

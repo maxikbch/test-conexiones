@@ -1,0 +1,1457 @@
+[INFO] 01:07:00:362 Memory/(1722:1722): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 01:07:00:362 Memory/(1722:1722): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 01:07:00:362 Memory/(1722:1722): TAM_PAGINA cargado correctamente: 64
+[INFO] 01:07:00:362 Memory/(1722:1722): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 01:07:00:362 Memory/(1722:1722): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 01:07:00:362 Memory/(1722:1722): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 01:07:00:362 Memory/(1722:1722): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 01:07:00:363 Memory/(1722:1722): RETARDO_SWAP correctamente: 2000
+[INFO] 01:07:00:363 Memory/(1722:1722): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 01:07:00:364 Memory/(1722:1722): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 01:07:00:365 Memory/(1722:1722): Archivo de configuracion cargado correctamente
+[ERROR] 01:07:00:365 Memory/(1722:1723): Fallo al crear el servidor MEMORIA, cerrando MEMORIA
+[INFO] 01:07:30:832 Memory/(1786:1786): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 01:07:30:832 Memory/(1786:1786): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 01:07:30:832 Memory/(1786:1786): TAM_PAGINA cargado correctamente: 64
+[INFO] 01:07:30:832 Memory/(1786:1786): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 01:07:30:832 Memory/(1786:1786): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 01:07:30:832 Memory/(1786:1786): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 01:07:30:832 Memory/(1786:1786): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 01:07:30:832 Memory/(1786:1786): RETARDO_SWAP correctamente: 2000
+[INFO] 01:07:30:832 Memory/(1786:1786): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 01:07:30:832 Memory/(1786:1786): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 01:07:30:832 Memory/(1786:1786): Archivo de configuracion cargado correctamente
+[ERROR] 01:07:30:833 Memory/(1786:1787): Fallo al crear el servidor MEMORIA, cerrando MEMORIA
+[INFO] 01:07:32:609 Memory/(1788:1788): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 01:07:32:609 Memory/(1788:1788): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 01:07:32:609 Memory/(1788:1788): TAM_PAGINA cargado correctamente: 64
+[INFO] 01:07:32:609 Memory/(1788:1788): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 01:07:32:609 Memory/(1788:1788): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 01:07:32:609 Memory/(1788:1788): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 01:07:32:609 Memory/(1788:1788): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 01:07:32:609 Memory/(1788:1788): RETARDO_SWAP correctamente: 2000
+[INFO] 01:07:32:609 Memory/(1788:1788): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 01:07:32:609 Memory/(1788:1788): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 01:07:32:609 Memory/(1788:1788): Archivo de configuracion cargado correctamente
+[ERROR] 01:07:32:610 Memory/(1788:1789): Fallo al crear el servidor MEMORIA, cerrando MEMORIA
+[INFO] 01:15:17:926 Memory/(1977:1977): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 01:15:17:927 Memory/(1977:1977): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 01:15:17:927 Memory/(1977:1977): TAM_PAGINA cargado correctamente: 64
+[INFO] 01:15:17:927 Memory/(1977:1977): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 01:15:17:927 Memory/(1977:1977): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 01:15:17:927 Memory/(1977:1977): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 01:15:17:927 Memory/(1977:1977): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 01:15:17:927 Memory/(1977:1977): RETARDO_SWAP correctamente: 2000
+[INFO] 01:15:17:927 Memory/(1977:1977): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 01:15:17:927 Memory/(1977:1977): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 01:15:17:927 Memory/(1977:1977): Archivo de configuracion cargado correctamente
+[INFO] 01:16:54:179 Memory/(2070:2070): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 01:16:54:179 Memory/(2070:2070): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 01:16:54:179 Memory/(2070:2070): TAM_PAGINA cargado correctamente: 64
+[INFO] 01:16:54:179 Memory/(2070:2070): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 01:16:54:179 Memory/(2070:2070): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 01:16:54:179 Memory/(2070:2070): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 01:16:54:179 Memory/(2070:2070): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 01:16:54:179 Memory/(2070:2070): RETARDO_SWAP correctamente: 2000
+[INFO] 01:16:54:179 Memory/(2070:2070): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 01:16:54:179 Memory/(2070:2070): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 01:16:54:179 Memory/(2070:2070): Archivo de configuracion cargado correctamente
+[INFO] 01:22:24:042 Memory/(2166:2166): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 01:22:24:043 Memory/(2166:2166): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 01:22:24:043 Memory/(2166:2166): TAM_PAGINA cargado correctamente: 64
+[INFO] 01:22:24:043 Memory/(2166:2166): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 01:22:24:043 Memory/(2166:2166): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 01:22:24:043 Memory/(2166:2166): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 01:22:24:043 Memory/(2166:2166): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 01:22:24:043 Memory/(2166:2166): RETARDO_SWAP correctamente: 2000
+[INFO] 01:22:24:043 Memory/(2166:2166): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 01:22:24:043 Memory/(2166:2166): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 01:22:24:043 Memory/(2166:2166): Archivo de configuracion cargado correctamente
+[INFO] 12:13:53:773 Memory/(3092:3092): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 12:13:53:773 Memory/(3092:3092): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 12:13:53:773 Memory/(3092:3092): TAM_PAGINA cargado correctamente: 64
+[INFO] 12:13:53:773 Memory/(3092:3092): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 12:13:53:773 Memory/(3092:3092): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 12:13:53:773 Memory/(3092:3092): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 12:13:53:773 Memory/(3092:3092): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 12:13:53:773 Memory/(3092:3092): RETARDO_SWAP correctamente: 2000
+[INFO] 12:13:53:773 Memory/(3092:3092): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 12:13:53:773 Memory/(3092:3092): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 12:13:53:773 Memory/(3092:3092): Archivo de configuracion cargado correctamente
+[INFO] 19:26:17:584 Memory/(3519:3519): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 19:26:17:586 Memory/(3519:3519): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 19:26:17:586 Memory/(3519:3519): TAM_PAGINA cargado correctamente: 64
+[INFO] 19:26:17:587 Memory/(3519:3519): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 19:26:17:587 Memory/(3519:3519): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 19:26:17:587 Memory/(3519:3519): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 19:26:17:587 Memory/(3519:3519): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 19:26:17:587 Memory/(3519:3519): RETARDO_SWAP correctamente: 2000
+[INFO] 19:26:17:587 Memory/(3519:3519): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 19:26:17:587 Memory/(3519:3519): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 19:26:17:587 Memory/(3519:3519): Archivo de configuracion cargado correctamente
+[INFO] 19:26:52:941 Memory/(3641:3641): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 19:26:52:941 Memory/(3641:3641): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 19:26:52:941 Memory/(3641:3641): TAM_PAGINA cargado correctamente: 64
+[INFO] 19:26:52:941 Memory/(3641:3641): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 19:26:52:941 Memory/(3641:3641): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 19:26:52:941 Memory/(3641:3641): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 19:26:52:941 Memory/(3641:3641): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 19:26:52:941 Memory/(3641:3641): RETARDO_SWAP correctamente: 2000
+[INFO] 19:26:52:941 Memory/(3641:3641): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 19:26:52:941 Memory/(3641:3641): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 19:26:52:941 Memory/(3641:3641): Archivo de configuracion cargado correctamente
+[INFO] 19:27:45:887 Memory/(3971:3971): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 19:27:45:887 Memory/(3971:3971): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 19:27:45:887 Memory/(3971:3971): TAM_PAGINA cargado correctamente: 64
+[INFO] 19:27:45:888 Memory/(3971:3971): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 19:27:45:888 Memory/(3971:3971): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 19:27:45:888 Memory/(3971:3971): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 19:27:45:888 Memory/(3971:3971): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 19:27:45:888 Memory/(3971:3971): RETARDO_SWAP correctamente: 2000
+[INFO] 19:27:45:888 Memory/(3971:3971): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 19:27:45:888 Memory/(3971:3971): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 19:27:45:888 Memory/(3971:3971): Archivo de configuracion cargado correctamente
+[INFO] 19:30:34:530 Memory/(4165:4165): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 19:30:34:530 Memory/(4165:4165): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 19:30:34:530 Memory/(4165:4165): TAM_PAGINA cargado correctamente: 64
+[INFO] 19:30:34:530 Memory/(4165:4165): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 19:30:34:530 Memory/(4165:4165): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 19:30:34:530 Memory/(4165:4165): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 19:30:34:530 Memory/(4165:4165): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 19:30:34:530 Memory/(4165:4165): RETARDO_SWAP correctamente: 2000
+[INFO] 19:30:34:530 Memory/(4165:4165): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 19:30:34:530 Memory/(4165:4165): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 19:30:34:530 Memory/(4165:4165): Archivo de configuracion cargado correctamente
+[INFO] 19:33:04:977 Memory/(4227:4227): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 19:33:04:977 Memory/(4227:4227): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 19:33:04:977 Memory/(4227:4227): TAM_PAGINA cargado correctamente: 64
+[INFO] 19:33:04:977 Memory/(4227:4227): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 19:33:04:977 Memory/(4227:4227): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 19:33:04:977 Memory/(4227:4227): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 19:33:04:977 Memory/(4227:4227): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 19:33:04:977 Memory/(4227:4227): RETARDO_SWAP correctamente: 2000
+[INFO] 19:33:04:977 Memory/(4227:4227): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 19:33:04:977 Memory/(4227:4227): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 19:33:04:977 Memory/(4227:4227): Archivo de configuracion cargado correctamente
+[INFO] 19:33:54:382 Memory/(4321:4321): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 19:33:54:382 Memory/(4321:4321): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 19:33:54:382 Memory/(4321:4321): TAM_PAGINA cargado correctamente: 64
+[INFO] 19:33:54:382 Memory/(4321:4321): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 19:33:54:382 Memory/(4321:4321): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 19:33:54:382 Memory/(4321:4321): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 19:33:54:382 Memory/(4321:4321): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 19:33:54:382 Memory/(4321:4321): RETARDO_SWAP correctamente: 2000
+[INFO] 19:33:54:382 Memory/(4321:4321): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 19:33:54:382 Memory/(4321:4321): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 19:33:54:382 Memory/(4321:4321): Archivo de configuracion cargado correctamente
+[INFO] 19:46:34:798 Memory/(6345:6345): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 19:46:34:798 Memory/(6345:6345): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 19:46:34:798 Memory/(6345:6345): TAM_PAGINA cargado correctamente: 64
+[INFO] 19:46:34:798 Memory/(6345:6345): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 19:46:34:799 Memory/(6345:6345): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 19:46:34:799 Memory/(6345:6345): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 19:46:34:799 Memory/(6345:6345): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 19:46:34:799 Memory/(6345:6345): RETARDO_SWAP correctamente: 2000
+[INFO] 19:46:34:799 Memory/(6345:6345): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 19:46:34:799 Memory/(6345:6345): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 19:46:34:799 Memory/(6345:6345): Archivo de configuracion cargado correctamente
+[INFO] 19:49:54:569 Memory/(1737:1737): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 19:49:54:569 Memory/(1737:1737): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 19:49:54:569 Memory/(1737:1737): TAM_PAGINA cargado correctamente: 64
+[INFO] 19:49:54:569 Memory/(1737:1737): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 19:49:54:569 Memory/(1737:1737): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 19:49:54:569 Memory/(1737:1737): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 19:49:54:569 Memory/(1737:1737): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 19:49:54:569 Memory/(1737:1737): RETARDO_SWAP correctamente: 2000
+[INFO] 19:49:54:569 Memory/(1737:1737): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 19:49:54:569 Memory/(1737:1737): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 19:49:54:569 Memory/(1737:1737): Archivo de configuracion cargado correctamente
+[INFO] 20:39:59:433 Memory/(1791:1791): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 20:39:59:434 Memory/(1791:1791): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 20:39:59:434 Memory/(1791:1791): TAM_PAGINA cargado correctamente: 64
+[INFO] 20:39:59:434 Memory/(1791:1791): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 20:39:59:434 Memory/(1791:1791): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 20:39:59:434 Memory/(1791:1791): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 20:39:59:434 Memory/(1791:1791): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 20:39:59:434 Memory/(1791:1791): RETARDO_SWAP correctamente: 2000
+[INFO] 20:39:59:434 Memory/(1791:1791): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 20:39:59:434 Memory/(1791:1791): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 20:39:59:434 Memory/(1791:1791): Archivo de configuracion cargado correctamente
+[INFO] 20:41:37:974 Memory/(1961:1961): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 20:41:37:974 Memory/(1961:1961): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 20:41:37:974 Memory/(1961:1961): TAM_PAGINA cargado correctamente: 64
+[INFO] 20:41:37:974 Memory/(1961:1961): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 20:41:37:974 Memory/(1961:1961): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 20:41:37:974 Memory/(1961:1961): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 20:41:37:974 Memory/(1961:1961): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 20:41:37:974 Memory/(1961:1961): RETARDO_SWAP correctamente: 2000
+[INFO] 20:41:37:974 Memory/(1961:1961): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 20:41:37:974 Memory/(1961:1961): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 20:41:37:974 Memory/(1961:1961): Archivo de configuracion cargado correctamente
+[INFO] 20:50:14:463 Memory/(3807:3807): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 20:50:14:463 Memory/(3807:3807): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 20:50:14:463 Memory/(3807:3807): TAM_PAGINA cargado correctamente: 64
+[INFO] 20:50:14:464 Memory/(3807:3807): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 20:50:14:464 Memory/(3807:3807): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 20:50:14:464 Memory/(3807:3807): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 20:50:14:464 Memory/(3807:3807): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 20:50:14:464 Memory/(3807:3807): RETARDO_SWAP correctamente: 2000
+[INFO] 20:50:14:464 Memory/(3807:3807): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 20:50:14:464 Memory/(3807:3807): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 20:50:14:464 Memory/(3807:3807): Archivo de configuracion cargado correctamente
+[INFO] 20:50:14:464 Memory/(3807:3808): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 20:51:21:017 Memory/(3807:3808): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 20:51:35:097 Memory/(3807:3808): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 01:03:28:709 Memory/(1907:1907): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 01:03:28:711 Memory/(1907:1907): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 01:03:28:711 Memory/(1907:1907): TAM_PAGINA cargado correctamente: 64
+[INFO] 01:03:28:711 Memory/(1907:1907): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 01:03:28:711 Memory/(1907:1907): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 01:03:28:711 Memory/(1907:1907): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 01:03:28:711 Memory/(1907:1907): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 01:03:28:711 Memory/(1907:1907): RETARDO_SWAP correctamente: 2000
+[INFO] 01:03:28:711 Memory/(1907:1907): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 01:03:28:711 Memory/(1907:1907): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 01:03:28:711 Memory/(1907:1907): Archivo de configuracion cargado correctamente
+[INFO] 01:03:28:712 Memory/(1907:1908): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 01:03:39:298 Memory/(1907:1908): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 01:03:48:491 Memory/(1907:1908): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 00:52:56:077 Memory/(1918:1918): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 00:52:56:079 Memory/(1918:1918): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 00:52:56:079 Memory/(1918:1918): TAM_PAGINA cargado correctamente: 64
+[INFO] 00:52:56:079 Memory/(1918:1918): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 00:52:56:079 Memory/(1918:1918): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 00:52:56:080 Memory/(1918:1918): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 00:52:56:080 Memory/(1918:1918): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 00:52:56:080 Memory/(1918:1918): RETARDO_SWAP correctamente: 2000
+[INFO] 00:52:56:080 Memory/(1918:1918): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 00:52:56:080 Memory/(1918:1918): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 00:52:56:080 Memory/(1918:1918): Archivo de configuracion cargado correctamente
+[INFO] 00:52:56:080 Memory/(1918:1919): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 00:53:10:383 Memory/(1918:1919): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 01:52:03:901 Memory/(1918:1918): SERVIDORES CERRADOS
+[INFO] 01:52:03:901 Memory/(1918:1918): TERMINANDO_EL_LOG
+[INFO] 01:54:40:395 Memory/(30143:30143): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 01:54:40:396 Memory/(30143:30143): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 01:54:40:396 Memory/(30143:30143): TAM_PAGINA cargado correctamente: 64
+[INFO] 01:54:40:396 Memory/(30143:30143): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 01:54:40:396 Memory/(30143:30143): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 01:54:40:396 Memory/(30143:30143): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 01:54:40:396 Memory/(30143:30143): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 01:54:40:396 Memory/(30143:30143): RETARDO_SWAP correctamente: 2000
+[INFO] 01:54:40:396 Memory/(30143:30143): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 01:54:40:396 Memory/(30143:30143): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 01:54:40:396 Memory/(30143:30143): Archivo de configuracion cargado correctamente
+[INFO] 01:54:40:396 Memory/(30143:30144): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 01:54:41:896 Memory/(30143:30144): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 01:54:44:360 Memory/(30143:30144): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 17:55:46:160 Memory/(2024:2024): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 17:55:46:161 Memory/(2024:2024): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 17:55:46:161 Memory/(2024:2024): TAM_PAGINA cargado correctamente: 64
+[INFO] 17:55:46:161 Memory/(2024:2024): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 17:55:46:161 Memory/(2024:2024): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 17:55:46:161 Memory/(2024:2024): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 17:55:46:161 Memory/(2024:2024): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 17:55:46:161 Memory/(2024:2024): RETARDO_SWAP correctamente: 2000
+[INFO] 17:55:46:162 Memory/(2024:2024): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 17:55:46:162 Memory/(2024:2024): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 17:55:46:162 Memory/(2024:2024): Archivo de configuracion cargado correctamente
+[INFO] 17:55:46:162 Memory/(2024:2025): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 17:55:59:705 Memory/(2024:2025): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 17:56:03:082 Memory/(2024:2030): DISCONNECT!
+[INFO] 17:56:07:183 Memory/(2024:2025): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 17:57:53:021 Memory/(2024:2025): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 00:47:01:106 Memory/(2024:2213): DISCONNECT!
+[INFO] 00:47:02:163 Memory/(2024:2036): DISCONNECT!
+[INFO] 00:47:03:247 Memory/(2024:2024): SERVIDORES CERRADOS
+[INFO] 02:39:33:999 Memory/(81333:81333): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 02:39:33:999 Memory/(81333:81333): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 02:39:33:999 Memory/(81333:81333): TAM_PAGINA cargado correctamente: 64
+[INFO] 02:39:33:999 Memory/(81333:81333): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 02:39:33:999 Memory/(81333:81333): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 02:39:33:999 Memory/(81333:81333): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 02:39:33:999 Memory/(81333:81333): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 02:39:34:000 Memory/(81333:81333): RETARDO_SWAP correctamente: 2000
+[INFO] 02:39:34:000 Memory/(81333:81333): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 02:39:34:000 Memory/(81333:81333): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 02:39:34:000 Memory/(81333:81333): Archivo de configuracion cargado correctamente
+[INFO] 02:39:34:000 Memory/(81333:81333): Listas con tablas de paginas creada
+[INFO] 02:39:34:000 Memory/(81333:81333): Memoria Principal creada.
+[INFO] 02:39:34:000 Memory/(81333:81333): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 02:39:34:000 Memory/(81333:81334): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 02:39:38:742 Memory/(81333:81334): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:39:55:250 Memory/(81333:81333): SERVIDORES CERRADOS
+[INFO] 02:39:57:511 Memory/(81356:81356): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 02:39:57:511 Memory/(81356:81356): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 02:39:57:511 Memory/(81356:81356): TAM_PAGINA cargado correctamente: 64
+[INFO] 02:39:57:511 Memory/(81356:81356): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 02:39:57:511 Memory/(81356:81356): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 02:39:57:511 Memory/(81356:81356): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 02:39:57:511 Memory/(81356:81356): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 02:39:57:511 Memory/(81356:81356): RETARDO_SWAP correctamente: 2000
+[INFO] 02:39:57:511 Memory/(81356:81356): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 02:39:57:511 Memory/(81356:81356): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 02:39:57:512 Memory/(81356:81356): Archivo de configuracion cargado correctamente
+[INFO] 02:39:57:512 Memory/(81356:81356): Listas con tablas de paginas creada
+[INFO] 02:39:57:512 Memory/(81356:81356): Memoria Principal creada.
+[INFO] 02:39:57:512 Memory/(81356:81356): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 02:39:57:512 Memory/(81356:81357): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 02:39:58:513 Memory/(81356:81357): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:40:03:611 Memory/(81356:81357): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:40:37:176 Memory/(81356:81376): Accion: CREACION - PID: <1> - SEGMENTO: <0> - TAMANIO: <4> paginas
+[INFO] 02:40:37:176 Memory/(81356:81376): Accion: CREACION - PID: <1> - SEGMENTO: <1> - TAMANIO: <4> paginas
+[INFO] 02:40:37:176 Memory/(81356:81376): Accion: CREACION - PID: <1> - SEGMENTO: <2> - TAMANIO: <4> paginas
+[INFO] 02:40:37:176 Memory/(81356:81376): Accion: CREACION - PID: <1> - SEGMENTO: <3> - TAMANIO: <4> paginas
+[INFO] 02:40:37:176 Memory/(81356:81376): SE LIBERA STREAM
+[INFO] 02:40:37:176 Memory/(81356:81376): SE LIBERA BUFFER
+[INFO] 02:40:37:176 Memory/(81356:81376): SE LIBERA PAQUETE
+[INFO] 02:41:02:237 Memory/(81356:81376): PID: <0> - Accion: LEER - Direccion fisica: <0>
+[INFO] 02:41:02:237 Memory/(81356:81376): Accediendo a espacio de usuario, tiempo estimado de acceso en milisegundos: <1000>
+[INFO] 02:41:03:246 Memory/(81356:81376): Se accedio a espacio de usuario
+[INFO] 02:41:03:246 Memory/(81356:81376): En la direccion: 0, se almacena el valor: 0
+[INFO] 02:41:03:246 Memory/(81356:81376): SE LIBERA STREAM
+[INFO] 02:41:03:246 Memory/(81356:81376): SE LIBERA BUFFER
+[INFO] 02:41:03:246 Memory/(81356:81376): SE LIBERA PAQUETE
+[INFO] 02:41:18:582 Memory/(81356:81376): PID: <1> - Accion: ESCRIBIR - Direccion fisica: <0>
+[INFO] 02:41:18:582 Memory/(81356:81376): Accediendo a espacio de usuario, tiempo estimado de acceso en milisegundos: <1000>
+[INFO] 02:41:19:583 Memory/(81356:81376): Se accedio a espacio de usuario
+[INFO] 02:41:19:583 Memory/(81356:81376): Se escribio en la direccion: <0>, el valor: <25> de tamanio <4>
+[INFO] 02:41:29:007 Memory/(81356:81376): PID: <0> - Accion: LEER - Direccion fisica: <0>
+[INFO] 02:41:29:007 Memory/(81356:81376): Accediendo a espacio de usuario, tiempo estimado de acceso en milisegundos: <1000>
+[INFO] 02:41:30:009 Memory/(81356:81376): Se accedio a espacio de usuario
+[INFO] 02:41:30:009 Memory/(81356:81376): En la direccion: 0, se almacena el valor: 25
+[INFO] 02:41:30:010 Memory/(81356:81376): SE LIBERA STREAM
+[INFO] 02:41:30:010 Memory/(81356:81376): SE LIBERA BUFFER
+[INFO] 02:41:30:010 Memory/(81356:81376): SE LIBERA PAQUETE
+[INFO] 02:42:22:629 Memory/(81356:81376): PID: <0> - Accion: LEER - Direccion fisica: <0>
+[INFO] 02:42:22:630 Memory/(81356:81376): Accediendo a espacio de usuario, tiempo estimado de acceso en milisegundos: <1000>
+[INFO] 02:42:23:631 Memory/(81356:81376): Se accedio a espacio de usuario
+[INFO] 02:42:23:631 Memory/(81356:81376): En la direccion: 0, se almacena el valor: 25
+[INFO] 02:42:23:631 Memory/(81356:81376): SE LIBERA STREAM
+[INFO] 02:42:23:631 Memory/(81356:81376): SE LIBERA BUFFER
+[INFO] 02:42:23:631 Memory/(81356:81376): SE LIBERA PAQUETE
+[INFO] 02:42:34:255 Memory/(81356:81376): PID: <0> - Accion: LEER - Direccion fisica: <0>
+[INFO] 02:42:34:255 Memory/(81356:81376): Accediendo a espacio de usuario, tiempo estimado de acceso en milisegundos: <1000>
+[INFO] 02:42:35:256 Memory/(81356:81376): Se accedio a espacio de usuario
+[INFO] 02:42:35:256 Memory/(81356:81376): En la direccion: 0, se almacena el valor: 25
+[INFO] 02:42:35:257 Memory/(81356:81376): SE LIBERA STREAM
+[INFO] 02:42:35:257 Memory/(81356:81376): SE LIBERA BUFFER
+[INFO] 02:42:35:257 Memory/(81356:81376): SE LIBERA PAQUETE
+[INFO] 22:24:17:718 Memory/(101953:101953): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 22:24:17:719 Memory/(101953:101953): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 22:24:17:719 Memory/(101953:101953): TAM_PAGINA cargado correctamente: 64
+[INFO] 22:24:17:719 Memory/(101953:101953): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 22:24:17:719 Memory/(101953:101953): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 22:24:17:719 Memory/(101953:101953): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 22:24:17:719 Memory/(101953:101953): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 22:24:17:719 Memory/(101953:101953): RETARDO_SWAP correctamente: 2000
+[INFO] 22:24:17:720 Memory/(101953:101953): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 22:24:17:720 Memory/(101953:101953): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 22:24:17:720 Memory/(101953:101953): Archivo de configuracion cargado correctamente
+[INFO] 22:24:17:720 Memory/(101953:101953): Listas con tablas de paginas creada
+[INFO] 22:24:17:720 Memory/(101953:101953): Memoria Principal creada.
+[INFO] 22:24:17:720 Memory/(101953:101953): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 22:24:17:720 Memory/(101953:101954): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 22:24:20:367 Memory/(101953:101954): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 22:24:21:265 Memory/(101953:101954): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 22:29:25:990 Memory/(104250:104250): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 22:29:25:990 Memory/(104250:104250): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 22:29:25:990 Memory/(104250:104250): TAM_PAGINA cargado correctamente: 64
+[INFO] 22:29:25:991 Memory/(104250:104250): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 22:29:25:991 Memory/(104250:104250): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 22:29:25:991 Memory/(104250:104250): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 22:29:25:991 Memory/(104250:104250): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 22:29:25:991 Memory/(104250:104250): RETARDO_SWAP correctamente: 2000
+[INFO] 22:29:25:991 Memory/(104250:104250): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 22:29:25:991 Memory/(104250:104250): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 22:29:25:991 Memory/(104250:104250): Archivo de configuracion cargado correctamente
+[INFO] 22:29:25:991 Memory/(104250:104250): Listas con tablas de paginas creada
+[INFO] 22:29:25:991 Memory/(104250:104250): Memoria Principal creada.
+[INFO] 22:29:25:991 Memory/(104250:104250): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 22:29:25:992 Memory/(104250:104251): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 22:29:27:807 Memory/(104250:104251): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 22:29:30:514 Memory/(104250:104251): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 22:29:32:551 Memory/(104250:104269): DISCONNECT!
+[INFO] 22:29:38:131 Memory/(104250:104251): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 22:36:57:041 Memory/(106341:106341): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 22:36:57:041 Memory/(106341:106341): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 22:36:57:041 Memory/(106341:106341): TAM_PAGINA cargado correctamente: 64
+[INFO] 22:36:57:041 Memory/(106341:106341): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 22:36:57:041 Memory/(106341:106341): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 22:36:57:041 Memory/(106341:106341): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 22:36:57:041 Memory/(106341:106341): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 22:36:57:041 Memory/(106341:106341): RETARDO_SWAP correctamente: 2000
+[INFO] 22:36:57:041 Memory/(106341:106341): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 22:36:57:041 Memory/(106341:106341): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 22:36:57:041 Memory/(106341:106341): Archivo de configuracion cargado correctamente
+[INFO] 22:36:57:042 Memory/(106341:106341): Listas con tablas de paginas creada
+[INFO] 22:36:57:042 Memory/(106341:106341): Memoria Principal creada.
+[INFO] 22:36:57:042 Memory/(106341:106341): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 22:36:57:042 Memory/(106341:106342): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 22:36:58:689 Memory/(106341:106342): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 22:37:00:020 Memory/(106341:106342): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 22:37:45:468 Memory/(106341:106360): DISCONNECT!
+[INFO] 22:37:47:668 Memory/(106341:106347): DISCONNECT!
+[INFO] 22:37:48:580 Memory/(106341:106341): SERVIDORES CERRADOS
+[INFO] 22:37:53:073 Memory/(106800:106800): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 22:37:53:073 Memory/(106800:106800): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 22:37:53:073 Memory/(106800:106800): TAM_PAGINA cargado correctamente: 64
+[INFO] 22:37:53:073 Memory/(106800:106800): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 22:37:53:073 Memory/(106800:106800): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 22:37:53:073 Memory/(106800:106800): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 22:37:53:073 Memory/(106800:106800): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 22:37:53:073 Memory/(106800:106800): RETARDO_SWAP correctamente: 2000
+[INFO] 22:37:53:073 Memory/(106800:106800): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 22:37:53:074 Memory/(106800:106800): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 22:37:53:074 Memory/(106800:106800): Archivo de configuracion cargado correctamente
+[INFO] 22:37:53:074 Memory/(106800:106800): Listas con tablas de paginas creada
+[INFO] 22:37:53:074 Memory/(106800:106800): Memoria Principal creada.
+[INFO] 22:37:53:074 Memory/(106800:106800): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 22:37:53:074 Memory/(106800:106801): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 22:37:53:929 Memory/(106800:106801): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 22:37:54:812 Memory/(106800:106801): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 23:12:36:781 Memory/(110016:110016): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 23:12:36:781 Memory/(110016:110016): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 23:12:36:781 Memory/(110016:110016): TAM_PAGINA cargado correctamente: 64
+[INFO] 23:12:36:781 Memory/(110016:110016): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 23:12:36:781 Memory/(110016:110016): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 23:12:36:781 Memory/(110016:110016): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 23:12:36:781 Memory/(110016:110016): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 23:12:36:781 Memory/(110016:110016): RETARDO_SWAP correctamente: 2000
+[INFO] 23:12:36:781 Memory/(110016:110016): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 23:12:36:781 Memory/(110016:110016): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 23:12:36:781 Memory/(110016:110016): Archivo de configuracion cargado correctamente
+[INFO] 23:12:36:781 Memory/(110016:110016): Listas con tablas de paginas creada
+[INFO] 23:12:36:781 Memory/(110016:110016): Memoria Principal creada.
+[INFO] 23:12:36:781 Memory/(110016:110016): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 23:12:36:782 Memory/(110016:110017): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 23:12:37:471 Memory/(110016:110017): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 23:12:38:532 Memory/(110016:110017): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 23:16:49:711 Memory/(111005:111005): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 23:16:49:711 Memory/(111005:111005): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 23:16:49:711 Memory/(111005:111005): TAM_PAGINA cargado correctamente: 64
+[INFO] 23:16:49:711 Memory/(111005:111005): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 23:16:49:711 Memory/(111005:111005): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 23:16:49:712 Memory/(111005:111005): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 23:16:49:712 Memory/(111005:111005): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 23:16:49:712 Memory/(111005:111005): RETARDO_SWAP correctamente: 2000
+[INFO] 23:16:49:712 Memory/(111005:111005): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 23:16:49:712 Memory/(111005:111005): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 23:16:49:712 Memory/(111005:111005): Archivo de configuracion cargado correctamente
+[INFO] 23:16:49:712 Memory/(111005:111005): Listas con tablas de paginas creada
+[INFO] 23:16:49:712 Memory/(111005:111005): Memoria Principal creada.
+[INFO] 23:16:49:713 Memory/(111005:111005): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 23:16:49:713 Memory/(111005:111006): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 23:16:50:322 Memory/(111005:111006): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 23:16:51:345 Memory/(111005:111006): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 23:17:02:377 Memory/(111096:111096): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 23:17:02:377 Memory/(111096:111096): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 23:17:02:377 Memory/(111096:111096): TAM_PAGINA cargado correctamente: 64
+[INFO] 23:17:02:377 Memory/(111096:111096): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 23:17:02:377 Memory/(111096:111096): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 23:17:02:377 Memory/(111096:111096): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 23:17:02:377 Memory/(111096:111096): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 23:17:02:377 Memory/(111096:111096): RETARDO_SWAP correctamente: 2000
+[INFO] 23:17:02:378 Memory/(111096:111096): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 23:17:02:378 Memory/(111096:111096): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 23:17:02:378 Memory/(111096:111096): Archivo de configuracion cargado correctamente
+[INFO] 23:17:02:378 Memory/(111096:111096): Listas con tablas de paginas creada
+[INFO] 23:17:02:378 Memory/(111096:111096): Memoria Principal creada.
+[INFO] 23:17:02:378 Memory/(111096:111096): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 23:17:02:378 Memory/(111096:111097): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 23:17:06:341 Memory/(111096:111096): SERVIDORES CERRADOS
+[INFO] 23:17:09:952 Memory/(111103:111103): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 23:17:09:952 Memory/(111103:111103): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 23:17:09:952 Memory/(111103:111103): TAM_PAGINA cargado correctamente: 64
+[INFO] 23:17:09:953 Memory/(111103:111103): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 23:17:09:953 Memory/(111103:111103): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 23:17:09:953 Memory/(111103:111103): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 23:17:09:953 Memory/(111103:111103): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 23:17:09:953 Memory/(111103:111103): RETARDO_SWAP correctamente: 2000
+[INFO] 23:17:09:953 Memory/(111103:111103): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 23:17:09:953 Memory/(111103:111103): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 23:17:09:953 Memory/(111103:111103): Archivo de configuracion cargado correctamente
+[INFO] 23:17:09:953 Memory/(111103:111103): Listas con tablas de paginas creada
+[INFO] 23:17:09:953 Memory/(111103:111103): Memoria Principal creada.
+[INFO] 23:17:09:953 Memory/(111103:111103): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 23:17:09:953 Memory/(111103:111104): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 23:17:11:178 Memory/(111103:111104): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 23:17:11:995 Memory/(111103:111104): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 23:20:05:531 Memory/(112133:112133): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 23:20:05:531 Memory/(112133:112133): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 23:20:05:531 Memory/(112133:112133): TAM_PAGINA cargado correctamente: 64
+[INFO] 23:20:05:531 Memory/(112133:112133): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 23:20:05:532 Memory/(112133:112133): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 23:20:05:532 Memory/(112133:112133): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 23:20:05:532 Memory/(112133:112133): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 23:20:05:532 Memory/(112133:112133): RETARDO_SWAP correctamente: 2000
+[INFO] 23:20:05:532 Memory/(112133:112133): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 23:20:05:532 Memory/(112133:112133): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 23:20:05:532 Memory/(112133:112133): Archivo de configuracion cargado correctamente
+[INFO] 23:20:05:532 Memory/(112133:112133): Listas con tablas de paginas creada
+[INFO] 23:20:05:533 Memory/(112133:112133): Memoria Principal creada.
+[INFO] 23:20:05:533 Memory/(112133:112133): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 23:20:05:533 Memory/(112133:112134): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 23:20:06:175 Memory/(112133:112134): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 23:20:08:418 Memory/(112133:112134): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 23:21:00:967 Memory/(112438:112438): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 23:21:00:968 Memory/(112438:112438): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 23:21:00:968 Memory/(112438:112438): TAM_PAGINA cargado correctamente: 64
+[INFO] 23:21:00:968 Memory/(112438:112438): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 23:21:00:968 Memory/(112438:112438): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 23:21:00:968 Memory/(112438:112438): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 23:21:00:968 Memory/(112438:112438): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 23:21:00:968 Memory/(112438:112438): RETARDO_SWAP correctamente: 2000
+[INFO] 23:21:00:968 Memory/(112438:112438): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 23:21:00:968 Memory/(112438:112438): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 23:21:00:968 Memory/(112438:112438): Archivo de configuracion cargado correctamente
+[INFO] 23:21:00:968 Memory/(112438:112438): Listas con tablas de paginas creada
+[INFO] 23:21:00:968 Memory/(112438:112438): Memoria Principal creada.
+[INFO] 23:21:00:968 Memory/(112438:112438): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 23:21:00:968 Memory/(112438:112439): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 23:21:01:545 Memory/(112438:112439): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 23:21:06:811 Memory/(112438:112439): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 23:28:58:978 Memory/(112438:112515): DISCONNECT!
+[INFO] 23:29:02:937 Memory/(112438:112438): SERVIDORES CERRADOS
+[INFO] 23:29:08:391 Memory/(115439:115439): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 23:29:08:391 Memory/(115439:115439): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 23:29:08:391 Memory/(115439:115439): TAM_PAGINA cargado correctamente: 64
+[INFO] 23:29:08:391 Memory/(115439:115439): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 23:29:08:391 Memory/(115439:115439): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 23:29:08:391 Memory/(115439:115439): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 23:29:08:391 Memory/(115439:115439): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 23:29:08:391 Memory/(115439:115439): RETARDO_SWAP correctamente: 2000
+[INFO] 23:29:08:392 Memory/(115439:115439): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 23:29:08:392 Memory/(115439:115439): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 23:29:08:392 Memory/(115439:115439): Archivo de configuracion cargado correctamente
+[INFO] 23:29:08:392 Memory/(115439:115439): Listas con tablas de paginas creada
+[INFO] 23:29:08:392 Memory/(115439:115439): Memoria Principal creada.
+[INFO] 23:29:08:392 Memory/(115439:115439): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 23:29:08:392 Memory/(115439:115440): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 23:29:09:290 Memory/(115439:115440): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 23:29:10:072 Memory/(115439:115440): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 23:31:16:294 Memory/(116355:116355): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 23:31:16:295 Memory/(116355:116355): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 23:31:16:295 Memory/(116355:116355): TAM_PAGINA cargado correctamente: 64
+[INFO] 23:31:16:295 Memory/(116355:116355): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 23:31:16:295 Memory/(116355:116355): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 23:31:16:295 Memory/(116355:116355): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 23:31:16:295 Memory/(116355:116355): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 23:31:16:295 Memory/(116355:116355): RETARDO_SWAP correctamente: 2000
+[INFO] 23:31:16:295 Memory/(116355:116355): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 23:31:16:295 Memory/(116355:116355): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 23:31:16:295 Memory/(116355:116355): Archivo de configuracion cargado correctamente
+[INFO] 23:31:16:295 Memory/(116355:116355): Listas con tablas de paginas creada
+[INFO] 23:31:16:295 Memory/(116355:116355): Memoria Principal creada.
+[INFO] 23:31:16:295 Memory/(116355:116355): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 23:31:16:296 Memory/(116355:116356): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 23:31:17:786 Memory/(116355:116355): SERVIDORES CERRADOS
+[INFO] 17:13:34:604 Memory/(4461:4461): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 17:13:34:604 Memory/(4461:4461): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 17:13:34:604 Memory/(4461:4461): TAM_PAGINA cargado correctamente: 64
+[INFO] 17:13:34:604 Memory/(4461:4461): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 17:13:34:604 Memory/(4461:4461): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 17:13:34:604 Memory/(4461:4461): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 17:13:34:604 Memory/(4461:4461): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 17:13:34:604 Memory/(4461:4461): RETARDO_SWAP correctamente: 2000
+[INFO] 17:13:34:604 Memory/(4461:4461): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 17:13:34:604 Memory/(4461:4461): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 17:13:34:604 Memory/(4461:4461): Archivo de configuracion cargado correctamente
+[INFO] 17:13:34:604 Memory/(4461:4461): Listas con tablas de paginas creada
+[INFO] 17:13:34:604 Memory/(4461:4461): Memoria Principal creada.
+[INFO] 17:13:34:604 Memory/(4461:4461): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 17:13:34:605 Memory/(4461:4462): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 17:13:52:900 Memory/(4461:4462): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 17:14:05:814 Memory/(4461:4462): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 17:20:21:862 Memory/(4461:4484): DISCONNECT!
+[INFO] 17:20:50:312 Memory/(4461:4467): DISCONNECT!
+[INFO] 17:20:55:500 Memory/(4461:4462): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 17:22:02:952 Memory/(4461:4462): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 17:27:31:561 Memory/(4461:10712): DISCONNECT!
+[INFO] 17:28:18:672 Memory/(4461:4462): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 17:32:10:785 Memory/(4461:13915): DISCONNECT!
+[INFO] 17:49:35:981 Memory/(4461:4462): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 17:51:11:236 Memory/(4461:15553): DISCONNECT!
+[INFO] 17:53:13:782 Memory/(4461:4462): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 17:53:21:949 Memory/(4461:15855): DISCONNECT!
+[INFO] 17:56:10:005 Memory/(4461:4462): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 17:56:43:165 Memory/(4461:9482): DISCONNECT!
+[INFO] 17:56:51:773 Memory/(4461:4462): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 17:56:59:889 Memory/(4461:16217): DISCONNECT!
+[INFO] 17:57:52:026 Memory/(4461:4462): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 17:58:50:542 Memory/(4461:16798): DISCONNECT!
+[INFO] 17:58:53:521 Memory/(4461:16464): DISCONNECT!
+[INFO] 17:58:55:289 Memory/(4461:4461): SERVIDORES CERRADOS
+[INFO] 17:59:00:346 Memory/(17697:17697): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 17:59:00:346 Memory/(17697:17697): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 17:59:00:346 Memory/(17697:17697): TAM_PAGINA cargado correctamente: 64
+[INFO] 17:59:00:346 Memory/(17697:17697): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 17:59:00:346 Memory/(17697:17697): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 17:59:00:346 Memory/(17697:17697): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 17:59:00:346 Memory/(17697:17697): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 17:59:00:346 Memory/(17697:17697): RETARDO_SWAP correctamente: 2000
+[INFO] 17:59:00:346 Memory/(17697:17697): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 17:59:00:346 Memory/(17697:17697): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 17:59:00:347 Memory/(17697:17697): Archivo de configuracion cargado correctamente
+[INFO] 17:59:00:347 Memory/(17697:17697): Listas con tablas de paginas creada
+[INFO] 17:59:00:347 Memory/(17697:17697): Memoria Principal creada.
+[INFO] 17:59:00:347 Memory/(17697:17697): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 17:59:00:347 Memory/(17697:17698): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 17:59:01:089 Memory/(17697:17698): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 17:59:02:986 Memory/(17697:17698): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 18:02:30:737 Memory/(17697:17717): DISCONNECT!
+[INFO] 18:02:37:345 Memory/(17697:17698): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 18:02:43:243 Memory/(17697:18459): DISCONNECT!
+[INFO] 18:02:45:472 Memory/(17697:17698): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 18:06:03:198 Memory/(17697:18846): DISCONNECT!
+[INFO] 18:06:04:347 Memory/(17697:17698): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 18:12:13:825 Memory/(17697:19731): DISCONNECT!
+[INFO] 18:12:15:034 Memory/(17697:17698): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 18:21:42:910 Memory/(17697:17697): SERVIDORES CERRADOS
+[INFO] 21:07:06:703 Memory/(6783:6783): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 21:07:06:703 Memory/(6783:6783): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 21:07:06:703 Memory/(6783:6783): TAM_PAGINA cargado correctamente: 64
+[INFO] 21:07:06:703 Memory/(6783:6783): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 21:07:06:703 Memory/(6783:6783): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 21:07:06:703 Memory/(6783:6783): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 21:07:06:703 Memory/(6783:6783): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 21:07:06:703 Memory/(6783:6783): RETARDO_SWAP correctamente: 2000
+[INFO] 21:07:06:703 Memory/(6783:6783): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 21:07:06:703 Memory/(6783:6783): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 21:07:06:703 Memory/(6783:6783): Archivo de configuracion cargado correctamente
+[INFO] 21:07:06:703 Memory/(6783:6783): Listas con tablas de paginas creada
+[INFO] 21:07:06:703 Memory/(6783:6783): Memoria Principal creada.
+[INFO] 21:07:06:703 Memory/(6783:6783): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 21:07:06:704 Memory/(6783:6783): Se creo el archivo swap
+[INFO] 21:07:06:704 Memory/(6783:6784): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 21:07:08:279 Memory/(6783:6784): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 21:07:08:279 Memory/(6783:6789): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 21:07:08:279 Memory/(6783:6789): SE LIBERA STREAM
+[INFO] 21:07:08:279 Memory/(6783:6789): SE LIBERA BUFFER
+[INFO] 21:07:08:279 Memory/(6783:6789): SE LIBERA PAQUETE
+[INFO] 21:07:10:279 Memory/(6783:6784): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 21:07:13:068 Memory/(6783:6802): Accion: CREACION - PID: <5> - SEGMENTO: <0> - TAMANIO: <4> paginas
+[INFO] 21:07:13:068 Memory/(6783:6802): Accion: CREACION - PID: <5> - SEGMENTO: <1> - TAMANIO: <4> paginas
+[INFO] 21:07:13:068 Memory/(6783:6802): Accion: CREACION - PID: <5> - SEGMENTO: <2> - TAMANIO: <4> paginas
+[INFO] 21:07:13:068 Memory/(6783:6802): Accion: CREACION - PID: <5> - SEGMENTO: <3> - TAMANIO: <4> paginas
+[INFO] 21:07:13:068 Memory/(6783:6802): SE LIBERA STREAM
+[INFO] 21:07:13:068 Memory/(6783:6802): SE LIBERA BUFFER
+[INFO] 21:07:13:068 Memory/(6783:6802): SE LIBERA PAQUETE
+[INFO] 21:07:13:068 Memory/(6783:6802): Accion: CREACION - PID: <5> - SEGMENTO: <4> - TAMANIO: <4> paginas
+[INFO] 21:07:13:068 Memory/(6783:6802): Accion: CREACION - PID: <5> - SEGMENTO: <5> - TAMANIO: <4> paginas
+[INFO] 21:07:13:068 Memory/(6783:6802): Accion: CREACION - PID: <5> - SEGMENTO: <6> - TAMANIO: <4> paginas
+[INFO] 21:07:13:068 Memory/(6783:6802): Accion: CREACION - PID: <5> - SEGMENTO: <7> - TAMANIO: <4> paginas
+[INFO] 21:07:13:068 Memory/(6783:6802): SE LIBERA STREAM
+[INFO] 21:07:13:068 Memory/(6783:6802): SE LIBERA BUFFER
+[INFO] 21:07:13:068 Memory/(6783:6802): SE LIBERA PAQUETE
+[INFO] 21:07:13:163 Memory/(6783:6802): DISCONNECT!
+[INFO] 21:08:08:890 Memory/(6783:6789): DISCONNECT!
+[INFO] 21:08:09:530 Memory/(6783:6783): SERVIDORES CERRADOS
+[INFO] 21:08:09:530 Memory/(6783:6783): Se borro con exito el archivo swap
+[INFO] 21:08:14:246 Memory/(7109:7109): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 21:08:14:246 Memory/(7109:7109): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 21:08:14:246 Memory/(7109:7109): TAM_PAGINA cargado correctamente: 64
+[INFO] 21:08:14:247 Memory/(7109:7109): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 21:08:14:247 Memory/(7109:7109): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 21:08:14:247 Memory/(7109:7109): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 21:08:14:247 Memory/(7109:7109): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 21:08:14:247 Memory/(7109:7109): RETARDO_SWAP correctamente: 2000
+[INFO] 21:08:14:247 Memory/(7109:7109): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 21:08:14:247 Memory/(7109:7109): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 21:08:14:247 Memory/(7109:7109): Archivo de configuracion cargado correctamente
+[INFO] 21:08:14:247 Memory/(7109:7109): Listas con tablas de paginas creada
+[INFO] 21:08:14:247 Memory/(7109:7109): Memoria Principal creada.
+[INFO] 21:08:14:247 Memory/(7109:7109): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 21:08:14:247 Memory/(7109:7109): Se creo el archivo swap
+[INFO] 21:08:14:248 Memory/(7109:7110): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 21:08:15:674 Memory/(7109:7110): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 21:08:15:674 Memory/(7109:7115): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 21:08:15:674 Memory/(7109:7115): SE LIBERA STREAM
+[INFO] 21:08:15:674 Memory/(7109:7115): SE LIBERA BUFFER
+[INFO] 21:08:15:674 Memory/(7109:7115): SE LIBERA PAQUETE
+[INFO] 21:08:16:591 Memory/(7109:7110): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 21:08:18:284 Memory/(7109:7129): Accion: CREACION - PID: <5> - SEGMENTO: <0> - TAMANIO: <4> paginas
+[INFO] 21:08:18:284 Memory/(7109:7129): Accion: CREACION - PID: <5> - SEGMENTO: <1> - TAMANIO: <4> paginas
+[INFO] 21:08:18:284 Memory/(7109:7129): Accion: CREACION - PID: <5> - SEGMENTO: <2> - TAMANIO: <4> paginas
+[INFO] 21:08:18:285 Memory/(7109:7129): Accion: CREACION - PID: <5> - SEGMENTO: <3> - TAMANIO: <4> paginas
+[INFO] 21:08:18:285 Memory/(7109:7129): SE LIBERA STREAM
+[INFO] 21:08:18:285 Memory/(7109:7129): SE LIBERA BUFFER
+[INFO] 21:08:18:285 Memory/(7109:7129): SE LIBERA PAQUETE
+[INFO] 21:08:18:285 Memory/(7109:7129): Accion: CREACION - PID: <5> - SEGMENTO: <4> - TAMANIO: <4> paginas
+[INFO] 21:08:18:285 Memory/(7109:7129): Accion: CREACION - PID: <5> - SEGMENTO: <5> - TAMANIO: <4> paginas
+[INFO] 21:08:18:285 Memory/(7109:7129): Accion: CREACION - PID: <5> - SEGMENTO: <6> - TAMANIO: <4> paginas
+[INFO] 21:08:18:285 Memory/(7109:7129): Accion: CREACION - PID: <5> - SEGMENTO: <7> - TAMANIO: <4> paginas
+[INFO] 21:08:18:285 Memory/(7109:7129): SE LIBERA STREAM
+[INFO] 21:08:18:285 Memory/(7109:7129): SE LIBERA BUFFER
+[INFO] 21:08:18:285 Memory/(7109:7129): SE LIBERA PAQUETE
+[INFO] 21:08:18:376 Memory/(7109:7129): DISCONNECT!
+[INFO] 21:09:32:465 Memory/(7109:7115): DISCONNECT!
+[INFO] 21:09:36:039 Memory/(7109:7109): SERVIDORES CERRADOS
+[INFO] 21:09:36:039 Memory/(7109:7109): Se borro con exito el archivo swap
+[INFO] 21:09:46:610 Memory/(7950:7950): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 21:09:46:610 Memory/(7950:7950): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 21:09:46:611 Memory/(7950:7950): TAM_PAGINA cargado correctamente: 64
+[INFO] 21:09:46:611 Memory/(7950:7950): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 21:09:46:611 Memory/(7950:7950): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 21:09:46:611 Memory/(7950:7950): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 21:09:46:611 Memory/(7950:7950): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 21:09:46:611 Memory/(7950:7950): RETARDO_SWAP correctamente: 2000
+[INFO] 21:09:46:611 Memory/(7950:7950): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 21:09:46:611 Memory/(7950:7950): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 21:09:46:611 Memory/(7950:7950): Archivo de configuracion cargado correctamente
+[INFO] 21:09:46:611 Memory/(7950:7950): Listas con tablas de paginas creada
+[INFO] 21:09:46:611 Memory/(7950:7950): Memoria Principal creada.
+[INFO] 21:09:46:611 Memory/(7950:7950): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 21:09:46:611 Memory/(7950:7950): Se creo el archivo swap
+[INFO] 21:09:46:612 Memory/(7950:7951): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 21:09:48:139 Memory/(7950:7951): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 21:09:48:139 Memory/(7950:7957): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 21:09:48:139 Memory/(7950:7957): SE LIBERA STREAM
+[INFO] 21:09:48:139 Memory/(7950:7957): SE LIBERA BUFFER
+[INFO] 21:09:48:139 Memory/(7950:7957): SE LIBERA PAQUETE
+[INFO] 21:09:50:013 Memory/(7950:7951): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 21:09:52:096 Memory/(7950:7970): Accion: CREACION - PID: <6> - SEGMENTO: <0> - TAMANIO: <4> paginas
+[INFO] 21:09:52:096 Memory/(7950:7970): Accion: CREACION - PID: <6> - SEGMENTO: <1> - TAMANIO: <4> paginas
+[INFO] 21:09:52:096 Memory/(7950:7970): Accion: CREACION - PID: <6> - SEGMENTO: <2> - TAMANIO: <4> paginas
+[INFO] 21:09:52:096 Memory/(7950:7970): Accion: CREACION - PID: <6> - SEGMENTO: <3> - TAMANIO: <4> paginas
+[INFO] 21:09:52:096 Memory/(7950:7970): SE LIBERA STREAM
+[INFO] 21:09:52:096 Memory/(7950:7970): SE LIBERA BUFFER
+[INFO] 21:09:52:097 Memory/(7950:7970): SE LIBERA PAQUETE
+[INFO] 21:09:52:097 Memory/(7950:7970): Accion: CREACION - PID: <6> - SEGMENTO: <4> - TAMANIO: <4> paginas
+[INFO] 21:09:52:097 Memory/(7950:7970): Accion: CREACION - PID: <6> - SEGMENTO: <5> - TAMANIO: <4> paginas
+[INFO] 21:09:52:097 Memory/(7950:7970): Accion: CREACION - PID: <6> - SEGMENTO: <6> - TAMANIO: <4> paginas
+[INFO] 21:09:52:097 Memory/(7950:7970): Accion: CREACION - PID: <6> - SEGMENTO: <7> - TAMANIO: <4> paginas
+[INFO] 21:09:52:097 Memory/(7950:7970): SE LIBERA STREAM
+[INFO] 21:09:52:097 Memory/(7950:7970): SE LIBERA BUFFER
+[INFO] 21:09:52:097 Memory/(7950:7970): SE LIBERA PAQUETE
+[INFO] 21:09:52:190 Memory/(7950:7970): DISCONNECT!
+[INFO] 21:11:24:506 Memory/(7950:7950): SERVIDORES CERRADOS
+[INFO] 21:11:24:506 Memory/(7950:7950): Se borro con exito el archivo swap
+[INFO] 21:11:27:926 Memory/(8272:8272): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 21:11:27:926 Memory/(8272:8272): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 21:11:27:926 Memory/(8272:8272): TAM_PAGINA cargado correctamente: 64
+[INFO] 21:11:27:926 Memory/(8272:8272): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 21:11:27:926 Memory/(8272:8272): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 21:11:27:926 Memory/(8272:8272): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 21:11:27:926 Memory/(8272:8272): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 21:11:27:926 Memory/(8272:8272): RETARDO_SWAP correctamente: 2000
+[INFO] 21:11:27:926 Memory/(8272:8272): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 21:11:27:926 Memory/(8272:8272): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 21:11:27:926 Memory/(8272:8272): Archivo de configuracion cargado correctamente
+[INFO] 21:11:27:926 Memory/(8272:8272): Listas con tablas de paginas creada
+[INFO] 21:11:27:927 Memory/(8272:8272): Memoria Principal creada.
+[INFO] 21:11:27:927 Memory/(8272:8272): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 21:11:27:927 Memory/(8272:8272): Se creo el archivo swap
+[INFO] 21:11:27:927 Memory/(8272:8273): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 21:11:28:688 Memory/(8272:8273): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 21:11:28:688 Memory/(8272:8279): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 21:11:28:688 Memory/(8272:8279): SE LIBERA STREAM
+[INFO] 21:11:28:688 Memory/(8272:8279): SE LIBERA BUFFER
+[INFO] 21:11:28:688 Memory/(8272:8279): SE LIBERA PAQUETE
+[INFO] 21:11:36:123 Memory/(8272:8273): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 21:11:40:639 Memory/(8272:8347): Accion: CREACION - PID: <5> - SEGMENTO: <0> - TAMANIO: <4> paginas
+[INFO] 21:11:40:639 Memory/(8272:8347): Accion: CREACION - PID: <5> - SEGMENTO: <1> - TAMANIO: <4> paginas
+[INFO] 21:11:40:639 Memory/(8272:8347): Accion: CREACION - PID: <5> - SEGMENTO: <2> - TAMANIO: <4> paginas
+[INFO] 21:11:40:639 Memory/(8272:8347): Accion: CREACION - PID: <5> - SEGMENTO: <3> - TAMANIO: <4> paginas
+[INFO] 21:11:40:639 Memory/(8272:8347): SE LIBERA STREAM
+[INFO] 21:11:40:639 Memory/(8272:8347): SE LIBERA BUFFER
+[INFO] 21:11:40:639 Memory/(8272:8347): SE LIBERA PAQUETE
+[INFO] 21:11:40:639 Memory/(8272:8347): Accion: CREACION - PID: <5> - SEGMENTO: <4> - TAMANIO: <4> paginas
+[INFO] 21:11:40:639 Memory/(8272:8347): Accion: CREACION - PID: <5> - SEGMENTO: <5> - TAMANIO: <4> paginas
+[INFO] 21:11:40:639 Memory/(8272:8347): Accion: CREACION - PID: <5> - SEGMENTO: <6> - TAMANIO: <4> paginas
+[INFO] 21:11:40:639 Memory/(8272:8347): Accion: CREACION - PID: <5> - SEGMENTO: <7> - TAMANIO: <4> paginas
+[INFO] 21:11:40:639 Memory/(8272:8347): SE LIBERA STREAM
+[INFO] 21:11:40:639 Memory/(8272:8347): SE LIBERA BUFFER
+[INFO] 21:11:40:639 Memory/(8272:8347): SE LIBERA PAQUETE
+[INFO] 21:13:36:007 Memory/(8272:8347): DISCONNECT!
+[INFO] 21:13:40:253 Memory/(8272:8273): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 21:13:45:477 Memory/(8272:9168): Accion: CREACION - PID: <5> - SEGMENTO: <8> - TAMANIO: <4> paginas
+[INFO] 21:13:45:477 Memory/(8272:9168): Accion: CREACION - PID: <5> - SEGMENTO: <9> - TAMANIO: <4> paginas
+[INFO] 21:13:45:477 Memory/(8272:9168): Accion: CREACION - PID: <5> - SEGMENTO: <10> - TAMANIO: <4> paginas
+[INFO] 21:13:45:477 Memory/(8272:9168): Accion: CREACION - PID: <5> - SEGMENTO: <11> - TAMANIO: <4> paginas
+[INFO] 21:13:45:477 Memory/(8272:9168): SE LIBERA STREAM
+[INFO] 21:13:45:478 Memory/(8272:9168): SE LIBERA BUFFER
+[INFO] 21:13:45:478 Memory/(8272:9168): SE LIBERA PAQUETE
+[INFO] 21:25:33:803 Memory/(8272:9168): DISCONNECT!
+[INFO] 21:25:42:008 Memory/(8272:8279): DISCONNECT!
+[INFO] 21:25:42:712 Memory/(8272:8272): SERVIDORES CERRADOS
+[INFO] 21:25:42:712 Memory/(8272:8272): Se borro con exito el archivo swap
+[INFO] 21:25:52:461 Memory/(10116:10116): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 21:25:52:461 Memory/(10116:10116): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 21:25:52:461 Memory/(10116:10116): TAM_PAGINA cargado correctamente: 64
+[INFO] 21:25:52:461 Memory/(10116:10116): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 21:25:52:461 Memory/(10116:10116): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 21:25:52:462 Memory/(10116:10116): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 21:25:52:462 Memory/(10116:10116): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 21:25:52:462 Memory/(10116:10116): RETARDO_SWAP correctamente: 2000
+[INFO] 21:25:52:462 Memory/(10116:10116): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 21:25:52:462 Memory/(10116:10116): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 21:25:52:462 Memory/(10116:10116): Archivo de configuracion cargado correctamente
+[INFO] 21:25:52:462 Memory/(10116:10116): Listas con tablas de paginas creada
+[INFO] 21:25:52:462 Memory/(10116:10116): Memoria Principal creada.
+[INFO] 21:25:52:462 Memory/(10116:10116): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 21:25:52:462 Memory/(10116:10116): Se creo el archivo swap
+[INFO] 21:25:52:463 Memory/(10116:10117): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 21:25:53:573 Memory/(10116:10117): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 21:25:53:573 Memory/(10116:10123): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 21:25:53:573 Memory/(10116:10123): SE LIBERA STREAM
+[INFO] 21:25:53:573 Memory/(10116:10123): SE LIBERA BUFFER
+[INFO] 21:25:53:573 Memory/(10116:10123): SE LIBERA PAQUETE
+[INFO] 21:25:54:726 Memory/(10116:10117): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 21:25:56:618 Memory/(10116:10135): Accion: CREACION - PID: <5> - SEGMENTO: <0> - TAMANIO: <4> paginas
+[INFO] 21:25:56:618 Memory/(10116:10135): Accion: CREACION - PID: <5> - SEGMENTO: <1> - TAMANIO: <4> paginas
+[INFO] 21:25:56:618 Memory/(10116:10135): Accion: CREACION - PID: <5> - SEGMENTO: <2> - TAMANIO: <4> paginas
+[INFO] 21:25:56:618 Memory/(10116:10135): Accion: CREACION - PID: <5> - SEGMENTO: <3> - TAMANIO: <4> paginas
+[INFO] 21:25:56:618 Memory/(10116:10135): SE LIBERA STREAM
+[INFO] 21:25:56:618 Memory/(10116:10135): SE LIBERA BUFFER
+[INFO] 21:25:56:618 Memory/(10116:10135): SE LIBERA PAQUETE
+[INFO] 21:25:56:618 Memory/(10116:10135): Accion: CREACION - PID: <5> - SEGMENTO: <4> - TAMANIO: <4> paginas
+[INFO] 21:25:56:618 Memory/(10116:10135): Accion: CREACION - PID: <5> - SEGMENTO: <5> - TAMANIO: <4> paginas
+[INFO] 21:25:56:618 Memory/(10116:10135): Accion: CREACION - PID: <5> - SEGMENTO: <6> - TAMANIO: <4> paginas
+[INFO] 21:25:56:618 Memory/(10116:10135): Accion: CREACION - PID: <5> - SEGMENTO: <7> - TAMANIO: <4> paginas
+[INFO] 21:25:56:618 Memory/(10116:10135): SE LIBERA STREAM
+[INFO] 21:25:56:618 Memory/(10116:10135): SE LIBERA BUFFER
+[INFO] 21:25:56:619 Memory/(10116:10135): SE LIBERA PAQUETE
+[INFO] 21:25:56:732 Memory/(10116:10135): DISCONNECT!
+[INFO] 21:26:37:982 Memory/(10116:10117): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 21:26:43:962 Memory/(10116:10320): Accion: CREACION - PID: <5> - SEGMENTO: <8> - TAMANIO: <4> paginas
+[INFO] 21:26:43:962 Memory/(10116:10320): Accion: CREACION - PID: <5> - SEGMENTO: <9> - TAMANIO: <4> paginas
+[INFO] 21:26:43:962 Memory/(10116:10320): Accion: CREACION - PID: <5> - SEGMENTO: <10> - TAMANIO: <4> paginas
+[INFO] 21:26:43:962 Memory/(10116:10320): Accion: CREACION - PID: <5> - SEGMENTO: <11> - TAMANIO: <4> paginas
+[INFO] 21:26:43:962 Memory/(10116:10320): SE LIBERA STREAM
+[INFO] 21:26:43:962 Memory/(10116:10320): SE LIBERA BUFFER
+[INFO] 21:26:43:962 Memory/(10116:10320): SE LIBERA PAQUETE
+[INFO] 21:26:43:962 Memory/(10116:10320): Accion: CREACION - PID: <5> - SEGMENTO: <12> - TAMANIO: <4> paginas
+[INFO] 21:26:43:962 Memory/(10116:10320): Accion: CREACION - PID: <5> - SEGMENTO: <13> - TAMANIO: <4> paginas
+[INFO] 21:26:43:962 Memory/(10116:10320): Accion: CREACION - PID: <5> - SEGMENTO: <14> - TAMANIO: <4> paginas
+[INFO] 21:26:43:962 Memory/(10116:10320): Accion: CREACION - PID: <5> - SEGMENTO: <15> - TAMANIO: <4> paginas
+[INFO] 21:26:43:962 Memory/(10116:10320): SE LIBERA STREAM
+[INFO] 21:26:43:963 Memory/(10116:10320): SE LIBERA BUFFER
+[INFO] 21:26:43:963 Memory/(10116:10320): SE LIBERA PAQUETE
+[INFO] 21:28:06:182 Memory/(10116:10320): DISCONNECT!
+[INFO] 21:28:07:773 Memory/(10116:10117): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 21:28:10:779 Memory/(10116:10733): Accion: CREACION - PID: <5> - SEGMENTO: <16> - TAMANIO: <4> paginas
+[INFO] 21:28:10:780 Memory/(10116:10733): Accion: CREACION - PID: <5> - SEGMENTO: <17> - TAMANIO: <4> paginas
+[INFO] 21:28:10:780 Memory/(10116:10733): Accion: CREACION - PID: <5> - SEGMENTO: <18> - TAMANIO: <4> paginas
+[INFO] 21:28:10:780 Memory/(10116:10733): Accion: CREACION - PID: <5> - SEGMENTO: <19> - TAMANIO: <4> paginas
+[INFO] 21:28:10:780 Memory/(10116:10733): SE LIBERA STREAM
+[INFO] 21:28:10:780 Memory/(10116:10733): SE LIBERA BUFFER
+[INFO] 21:28:10:780 Memory/(10116:10733): SE LIBERA PAQUETE
+[INFO] 21:28:10:780 Memory/(10116:10733): Accion: CREACION - PID: <5> - SEGMENTO: <20> - TAMANIO: <4> paginas
+[INFO] 21:28:10:780 Memory/(10116:10733): Accion: CREACION - PID: <5> - SEGMENTO: <21> - TAMANIO: <4> paginas
+[INFO] 21:28:10:780 Memory/(10116:10733): Accion: CREACION - PID: <5> - SEGMENTO: <22> - TAMANIO: <4> paginas
+[INFO] 21:28:10:780 Memory/(10116:10733): Accion: CREACION - PID: <5> - SEGMENTO: <23> - TAMANIO: <4> paginas
+[INFO] 21:28:10:781 Memory/(10116:10733): SE LIBERA STREAM
+[INFO] 21:28:10:781 Memory/(10116:10733): SE LIBERA BUFFER
+[INFO] 21:28:10:781 Memory/(10116:10733): SE LIBERA PAQUETE
+[INFO] 21:52:20:376 Memory/(10116:10733): DISCONNECT!
+[INFO] 21:52:28:888 Memory/(10116:10117): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 21:52:31:045 Memory/(10116:11451): Accion: CREACION - PID: <5> - SEGMENTO: <24> - TAMANIO: <4> paginas
+[INFO] 21:52:31:045 Memory/(10116:11451): Accion: CREACION - PID: <5> - SEGMENTO: <25> - TAMANIO: <4> paginas
+[INFO] 21:52:31:045 Memory/(10116:11451): Accion: CREACION - PID: <5> - SEGMENTO: <26> - TAMANIO: <4> paginas
+[INFO] 21:52:31:045 Memory/(10116:11451): Accion: CREACION - PID: <5> - SEGMENTO: <27> - TAMANIO: <4> paginas
+[INFO] 21:52:31:045 Memory/(10116:11451): SE LIBERA STREAM
+[INFO] 21:52:31:045 Memory/(10116:11451): SE LIBERA BUFFER
+[INFO] 21:52:31:045 Memory/(10116:11451): SE LIBERA PAQUETE
+[INFO] 21:54:55:974 Memory/(10116:10123): DISCONNECT!
+[INFO] 21:54:56:792 Memory/(10116:10116): SERVIDORES CERRADOS
+[INFO] 21:54:56:793 Memory/(10116:10116): Se borro con exito el archivo swap
+[INFO] 21:55:00:002 Memory/(11754:11754): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 21:55:00:002 Memory/(11754:11754): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 21:55:00:002 Memory/(11754:11754): TAM_PAGINA cargado correctamente: 64
+[INFO] 21:55:00:002 Memory/(11754:11754): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 21:55:00:002 Memory/(11754:11754): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 21:55:00:002 Memory/(11754:11754): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 21:55:00:002 Memory/(11754:11754): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 21:55:00:002 Memory/(11754:11754): RETARDO_SWAP correctamente: 2000
+[INFO] 21:55:00:002 Memory/(11754:11754): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 21:55:00:003 Memory/(11754:11754): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 21:55:00:003 Memory/(11754:11754): Archivo de configuracion cargado correctamente
+[INFO] 21:55:00:003 Memory/(11754:11754): Listas con tablas de paginas creada
+[INFO] 21:55:00:003 Memory/(11754:11754): Memoria Principal creada.
+[INFO] 21:55:00:003 Memory/(11754:11754): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 21:55:00:003 Memory/(11754:11754): Se creo el archivo swap
+[INFO] 21:55:00:003 Memory/(11754:11755): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 21:55:00:915 Memory/(11754:11755): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 21:55:00:915 Memory/(11754:11760): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 21:55:00:915 Memory/(11754:11760): SE LIBERA STREAM
+[INFO] 21:55:00:915 Memory/(11754:11760): SE LIBERA BUFFER
+[INFO] 21:55:00:915 Memory/(11754:11760): SE LIBERA PAQUETE
+[INFO] 21:55:02:091 Memory/(11754:11755): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 21:55:04:057 Memory/(11754:11777): Accion: CREACION - PID: <6> - SEGMENTO: <0> - TAMANIO: <4> paginas
+[INFO] 21:55:04:057 Memory/(11754:11777): Accion: CREACION - PID: <6> - SEGMENTO: <1> - TAMANIO: <4> paginas
+[INFO] 21:55:04:057 Memory/(11754:11777): Accion: CREACION - PID: <6> - SEGMENTO: <2> - TAMANIO: <4> paginas
+[INFO] 21:55:04:057 Memory/(11754:11777): Accion: CREACION - PID: <6> - SEGMENTO: <3> - TAMANIO: <4> paginas
+[INFO] 21:55:04:057 Memory/(11754:11777): SE LIBERA STREAM
+[INFO] 21:55:04:057 Memory/(11754:11777): SE LIBERA BUFFER
+[INFO] 21:55:04:057 Memory/(11754:11777): SE LIBERA PAQUETE
+[INFO] 23:03:40:215 Memory/(11754:11777): DISCONNECT!
+[INFO] 23:03:41:543 Memory/(11754:11754): SERVIDORES CERRADOS
+[INFO] 23:03:41:543 Memory/(11754:11754): Se borro con exito el archivo swap
+[INFO] 02:11:08:158 Memory/(17579:17579): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 02:11:08:159 Memory/(17579:17579): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 02:11:08:159 Memory/(17579:17579): TAM_PAGINA cargado correctamente: 64
+[INFO] 02:11:08:159 Memory/(17579:17579): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 02:11:08:159 Memory/(17579:17579): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 02:11:08:159 Memory/(17579:17579): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 02:11:08:159 Memory/(17579:17579): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 02:11:08:159 Memory/(17579:17579): RETARDO_SWAP correctamente: 2000
+[INFO] 02:11:08:159 Memory/(17579:17579): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 02:11:08:159 Memory/(17579:17579): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 02:11:08:159 Memory/(17579:17579): Archivo de configuracion cargado correctamente
+[INFO] 02:11:08:159 Memory/(17579:17579): Listas con tablas de paginas creada
+[INFO] 02:11:08:159 Memory/(17579:17579): Memoria Principal creada.
+[INFO] 02:11:08:159 Memory/(17579:17579): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 02:11:08:159 Memory/(17579:17579): Se creo el archivo swap
+[INFO] 02:11:08:160 Memory/(17579:17580): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 02:11:09:274 Memory/(17579:17580): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:11:09:274 Memory/(17579:17585): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 02:11:09:274 Memory/(17579:17585): SE LIBERA STREAM
+[INFO] 02:11:09:274 Memory/(17579:17585): SE LIBERA BUFFER
+[INFO] 02:11:09:274 Memory/(17579:17585): SE LIBERA PAQUETE
+[INFO] 02:11:10:436 Memory/(17579:17580): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:11:12:613 Memory/(17579:17598): Accion: CREACION - PID: <5> - SEGMENTO: <0> - TAMANIO: <4> paginas
+[INFO] 02:11:12:613 Memory/(17579:17598): Accion: CREACION - PID: <5> - SEGMENTO: <1> - TAMANIO: <4> paginas
+[INFO] 02:11:12:613 Memory/(17579:17598): Accion: CREACION - PID: <5> - SEGMENTO: <2> - TAMANIO: <4> paginas
+[INFO] 02:11:12:613 Memory/(17579:17598): Accion: CREACION - PID: <5> - SEGMENTO: <3> - TAMANIO: <4> paginas
+[INFO] 02:11:12:613 Memory/(17579:17598): SE LIBERA STREAM
+[INFO] 02:11:12:613 Memory/(17579:17598): SE LIBERA BUFFER
+[INFO] 02:11:12:613 Memory/(17579:17598): SE LIBERA PAQUETE
+[INFO] 02:12:51:946 Memory/(17579:17598): DISCONNECT!
+[INFO] 02:12:55:373 Memory/(17579:17580): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:12:57:594 Memory/(17579:17879): Accion: CREACION - PID: <5> - SEGMENTO: <4> - TAMANIO: <4> paginas
+[INFO] 02:12:57:594 Memory/(17579:17879): Accion: CREACION - PID: <5> - SEGMENTO: <5> - TAMANIO: <4> paginas
+[INFO] 02:12:57:594 Memory/(17579:17879): Accion: CREACION - PID: <5> - SEGMENTO: <6> - TAMANIO: <4> paginas
+[INFO] 02:12:57:594 Memory/(17579:17879): Accion: CREACION - PID: <5> - SEGMENTO: <7> - TAMANIO: <4> paginas
+[INFO] 02:12:57:594 Memory/(17579:17879): SE LIBERA STREAM
+[INFO] 02:12:57:595 Memory/(17579:17879): SE LIBERA BUFFER
+[INFO] 02:12:57:595 Memory/(17579:17879): SE LIBERA PAQUETE
+[INFO] 02:13:25:708 Memory/(17579:17879): DISCONNECT!
+[INFO] 02:13:26:492 Memory/(17579:17585): DISCONNECT!
+[INFO] 02:13:27:292 Memory/(17579:17579): SERVIDORES CERRADOS
+[INFO] 02:13:27:292 Memory/(17579:17579): Se borro con exito el archivo swap
+[INFO] 02:13:58:236 Memory/(18123:18123): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 02:13:58:236 Memory/(18123:18123): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 02:13:58:237 Memory/(18123:18123): TAM_PAGINA cargado correctamente: 64
+[INFO] 02:13:58:237 Memory/(18123:18123): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 02:13:58:237 Memory/(18123:18123): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 02:13:58:237 Memory/(18123:18123): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 02:13:58:237 Memory/(18123:18123): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 02:13:58:237 Memory/(18123:18123): RETARDO_SWAP correctamente: 2000
+[INFO] 02:13:58:237 Memory/(18123:18123): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 02:13:58:237 Memory/(18123:18123): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 02:13:58:237 Memory/(18123:18123): Archivo de configuracion cargado correctamente
+[INFO] 02:13:58:237 Memory/(18123:18123): Listas con tablas de paginas creada
+[INFO] 02:13:58:237 Memory/(18123:18123): Memoria Principal creada.
+[INFO] 02:13:58:237 Memory/(18123:18123): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 02:13:58:238 Memory/(18123:18123): Se creo el archivo swap
+[INFO] 02:13:58:238 Memory/(18123:18124): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 02:13:59:190 Memory/(18123:18124): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:13:59:190 Memory/(18123:18129): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 02:13:59:190 Memory/(18123:18129): SE LIBERA STREAM
+[INFO] 02:13:59:190 Memory/(18123:18129): SE LIBERA BUFFER
+[INFO] 02:13:59:190 Memory/(18123:18129): SE LIBERA PAQUETE
+[INFO] 02:14:01:278 Memory/(18123:18124): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:14:05:010 Memory/(18123:18147): Accion: CREACION - PID: <6> - SEGMENTO: <0> - TAMANIO: <4> paginas
+[INFO] 02:14:05:010 Memory/(18123:18147): Accion: CREACION - PID: <6> - SEGMENTO: <1> - TAMANIO: <4> paginas
+[INFO] 02:14:05:010 Memory/(18123:18147): Accion: CREACION - PID: <6> - SEGMENTO: <2> - TAMANIO: <4> paginas
+[INFO] 02:14:05:010 Memory/(18123:18147): Accion: CREACION - PID: <6> - SEGMENTO: <3> - TAMANIO: <4> paginas
+[INFO] 02:14:05:010 Memory/(18123:18147): SE LIBERA STREAM
+[INFO] 02:14:05:010 Memory/(18123:18147): SE LIBERA BUFFER
+[INFO] 02:14:05:010 Memory/(18123:18147): SE LIBERA PAQUETE
+[INFO] 02:14:49:231 Memory/(18123:18147): DISCONNECT!
+[INFO] 02:14:51:134 Memory/(18123:18124): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:14:55:617 Memory/(18123:18272): Accion: CREACION - PID: <5> - SEGMENTO: <4> - TAMANIO: <4> paginas
+[INFO] 02:14:55:617 Memory/(18123:18272): Accion: CREACION - PID: <5> - SEGMENTO: <5> - TAMANIO: <4> paginas
+[INFO] 02:14:55:617 Memory/(18123:18272): Accion: CREACION - PID: <5> - SEGMENTO: <6> - TAMANIO: <4> paginas
+[INFO] 02:14:55:617 Memory/(18123:18272): Accion: CREACION - PID: <5> - SEGMENTO: <7> - TAMANIO: <4> paginas
+[INFO] 02:14:55:617 Memory/(18123:18272): SE LIBERA STREAM
+[INFO] 02:14:55:617 Memory/(18123:18272): SE LIBERA BUFFER
+[INFO] 02:14:55:617 Memory/(18123:18272): SE LIBERA PAQUETE
+[INFO] 02:15:15:474 Memory/(18123:18272): DISCONNECT!
+[INFO] 02:15:16:919 Memory/(18123:18124): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:15:21:948 Memory/(18123:18464): Accion: CREACION - PID: <6> - SEGMENTO: <8> - TAMANIO: <4> paginas
+[INFO] 02:15:21:948 Memory/(18123:18464): Accion: CREACION - PID: <6> - SEGMENTO: <9> - TAMANIO: <4> paginas
+[INFO] 02:15:21:948 Memory/(18123:18464): Accion: CREACION - PID: <6> - SEGMENTO: <10> - TAMANIO: <4> paginas
+[INFO] 02:15:21:948 Memory/(18123:18464): Accion: CREACION - PID: <6> - SEGMENTO: <11> - TAMANIO: <4> paginas
+[INFO] 02:15:21:948 Memory/(18123:18464): SE LIBERA STREAM
+[INFO] 02:15:21:948 Memory/(18123:18464): SE LIBERA BUFFER
+[INFO] 02:15:21:948 Memory/(18123:18464): SE LIBERA PAQUETE
+[INFO] 02:16:36:447 Memory/(18123:18129): DISCONNECT!
+[INFO] 02:16:40:635 Memory/(18123:18124): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:16:40:635 Memory/(18123:18680): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 02:16:40:635 Memory/(18123:18680): SE LIBERA STREAM
+[INFO] 02:16:40:635 Memory/(18123:18680): SE LIBERA BUFFER
+[INFO] 02:16:40:635 Memory/(18123:18680): SE LIBERA PAQUETE
+[INFO] 02:16:42:311 Memory/(18123:18464): DISCONNECT!
+[INFO] 02:16:44:745 Memory/(18123:18124): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:16:48:425 Memory/(18123:18694): Accion: CREACION - PID: <6> - SEGMENTO: <12> - TAMANIO: <4> paginas
+[INFO] 02:16:48:425 Memory/(18123:18694): Accion: CREACION - PID: <6> - SEGMENTO: <13> - TAMANIO: <4> paginas
+[INFO] 02:16:48:425 Memory/(18123:18694): Accion: CREACION - PID: <6> - SEGMENTO: <14> - TAMANIO: <4> paginas
+[INFO] 02:16:48:425 Memory/(18123:18694): Accion: CREACION - PID: <6> - SEGMENTO: <15> - TAMANIO: <4> paginas
+[INFO] 02:16:48:425 Memory/(18123:18694): SE LIBERA STREAM
+[INFO] 02:16:48:425 Memory/(18123:18694): SE LIBERA BUFFER
+[INFO] 02:16:48:425 Memory/(18123:18694): SE LIBERA PAQUETE
+[INFO] 02:17:07:985 Memory/(18123:18694): DISCONNECT!
+[INFO] 02:17:09:009 Memory/(18123:18680): DISCONNECT!
+[INFO] 02:17:23:678 Memory/(18123:18124): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:17:25:162 Memory/(18123:18891): DISCONNECT!
+[INFO] 02:17:27:311 Memory/(18123:18124): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:17:27:311 Memory/(18123:18898): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 02:17:27:311 Memory/(18123:18898): SE LIBERA STREAM
+[INFO] 02:17:27:311 Memory/(18123:18898): SE LIBERA BUFFER
+[INFO] 02:17:27:311 Memory/(18123:18898): SE LIBERA PAQUETE
+[INFO] 02:17:29:680 Memory/(18123:18124): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:17:34:349 Memory/(18123:18915): Accion: CREACION - PID: <6> - SEGMENTO: <16> - TAMANIO: <4> paginas
+[INFO] 02:17:34:349 Memory/(18123:18915): Accion: CREACION - PID: <6> - SEGMENTO: <17> - TAMANIO: <4> paginas
+[INFO] 02:17:34:349 Memory/(18123:18915): Accion: CREACION - PID: <6> - SEGMENTO: <18> - TAMANIO: <4> paginas
+[INFO] 02:17:34:349 Memory/(18123:18915): Accion: CREACION - PID: <6> - SEGMENTO: <19> - TAMANIO: <4> paginas
+[INFO] 02:17:34:349 Memory/(18123:18915): SE LIBERA STREAM
+[INFO] 02:17:34:350 Memory/(18123:18915): SE LIBERA BUFFER
+[INFO] 02:17:34:350 Memory/(18123:18915): SE LIBERA PAQUETE
+[INFO] 02:17:52:206 Memory/(18123:18898): DISCONNECT!
+[INFO] 02:18:00:649 Memory/(18123:18915): DISCONNECT!
+[INFO] 02:18:01:543 Memory/(18123:18123): SERVIDORES CERRADOS
+[INFO] 02:18:01:543 Memory/(18123:18123): Se borro con exito el archivo swap
+[INFO] 02:52:14:022 Memory/(19929:19929): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 02:52:14:022 Memory/(19929:19929): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 02:52:14:022 Memory/(19929:19929): TAM_PAGINA cargado correctamente: 64
+[INFO] 02:52:14:022 Memory/(19929:19929): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 02:52:14:022 Memory/(19929:19929): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 02:52:14:022 Memory/(19929:19929): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 02:52:14:022 Memory/(19929:19929): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 02:52:14:022 Memory/(19929:19929): RETARDO_SWAP correctamente: 2000
+[INFO] 02:52:14:022 Memory/(19929:19929): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 02:52:14:022 Memory/(19929:19929): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 02:52:14:022 Memory/(19929:19929): Archivo de configuracion cargado correctamente
+[INFO] 02:52:14:022 Memory/(19929:19929): Listas con tablas de paginas creada
+[INFO] 02:52:14:022 Memory/(19929:19929): Memoria Principal creada.
+[INFO] 02:52:14:022 Memory/(19929:19929): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 02:52:14:022 Memory/(19929:19929): Se creo el archivo swap
+[INFO] 02:52:14:023 Memory/(19929:19930): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 02:52:16:999 Memory/(19929:19930): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:52:16:999 Memory/(19929:19968): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 02:52:16:999 Memory/(19929:19968): SE LIBERA STREAM
+[INFO] 02:52:16:999 Memory/(19929:19968): SE LIBERA BUFFER
+[INFO] 02:52:16:999 Memory/(19929:19968): SE LIBERA PAQUETE
+[INFO] 02:52:22:568 Memory/(19929:19930): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:52:26:661 Memory/(19929:20017): Accion: CREACION - PID: <5> - SEGMENTO: <0> - TAMANIO: <4> paginas
+[INFO] 02:52:26:661 Memory/(19929:20017): Accion: CREACION - PID: <5> - SEGMENTO: <1> - TAMANIO: <4> paginas
+[INFO] 02:52:26:661 Memory/(19929:20017): Accion: CREACION - PID: <5> - SEGMENTO: <2> - TAMANIO: <4> paginas
+[INFO] 02:52:26:662 Memory/(19929:20017): Accion: CREACION - PID: <5> - SEGMENTO: <3> - TAMANIO: <4> paginas
+[INFO] 02:52:26:662 Memory/(19929:20017): SE LIBERA STREAM
+[INFO] 02:52:26:662 Memory/(19929:20017): SE LIBERA BUFFER
+[INFO] 02:52:26:662 Memory/(19929:20017): SE LIBERA PAQUETE
+[INFO] 02:52:36:010 Memory/(19929:19968): DISCONNECT!
+[INFO] 02:53:43:535 Memory/(19929:20017): DISCONNECT!
+[INFO] 02:53:44:761 Memory/(19929:19929): SERVIDORES CERRADOS
+[INFO] 02:53:44:761 Memory/(19929:19929): Se borro con exito el archivo swap
+[INFO] 02:53:47:758 Memory/(20277:20277): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 02:53:47:758 Memory/(20277:20277): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 02:53:47:758 Memory/(20277:20277): TAM_PAGINA cargado correctamente: 64
+[INFO] 02:53:47:759 Memory/(20277:20277): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 02:53:47:759 Memory/(20277:20277): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 02:53:47:759 Memory/(20277:20277): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 02:53:47:759 Memory/(20277:20277): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 02:53:47:759 Memory/(20277:20277): RETARDO_SWAP correctamente: 2000
+[INFO] 02:53:47:759 Memory/(20277:20277): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 02:53:47:759 Memory/(20277:20277): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 02:53:47:759 Memory/(20277:20277): Archivo de configuracion cargado correctamente
+[INFO] 02:53:47:759 Memory/(20277:20277): Listas con tablas de paginas creada
+[INFO] 02:53:47:759 Memory/(20277:20277): Memoria Principal creada.
+[INFO] 02:53:47:759 Memory/(20277:20277): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 02:53:47:759 Memory/(20277:20277): Se creo el archivo swap
+[INFO] 02:53:47:759 Memory/(20277:20278): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 02:53:54:731 Memory/(20277:20278): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:53:54:731 Memory/(20277:20321): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 02:53:54:731 Memory/(20277:20321): SE LIBERA STREAM
+[INFO] 02:53:54:731 Memory/(20277:20321): SE LIBERA BUFFER
+[INFO] 02:53:54:732 Memory/(20277:20321): SE LIBERA PAQUETE
+[INFO] 02:53:56:301 Memory/(20277:20278): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:53:58:385 Memory/(20277:20336): Accion: CREACION - PID: <6> - SEGMENTO: <0> - TAMANIO: <4> paginas
+[INFO] 02:53:58:385 Memory/(20277:20336): Accion: CREACION - PID: <6> - SEGMENTO: <1> - TAMANIO: <4> paginas
+[INFO] 02:53:58:385 Memory/(20277:20336): Accion: CREACION - PID: <6> - SEGMENTO: <2> - TAMANIO: <4> paginas
+[INFO] 02:53:58:385 Memory/(20277:20336): Accion: CREACION - PID: <6> - SEGMENTO: <3> - TAMANIO: <4> paginas
+[INFO] 02:53:58:385 Memory/(20277:20336): SE LIBERA STREAM
+[INFO] 02:53:58:386 Memory/(20277:20336): SE LIBERA BUFFER
+[INFO] 02:53:58:386 Memory/(20277:20336): SE LIBERA PAQUETE
+[INFO] 02:54:05:105 Memory/(20277:20321): DISCONNECT!
+[INFO] 02:57:38:508 Memory/(20277:20277): SERVIDORES CERRADOS
+[INFO] 02:57:38:508 Memory/(20277:20277): Se borro con exito el archivo swap
+[INFO] 02:57:42:264 Memory/(20742:20742): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 02:57:42:264 Memory/(20742:20742): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 02:57:42:264 Memory/(20742:20742): TAM_PAGINA cargado correctamente: 64
+[INFO] 02:57:42:264 Memory/(20742:20742): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 02:57:42:264 Memory/(20742:20742): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 02:57:42:264 Memory/(20742:20742): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 02:57:42:264 Memory/(20742:20742): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 02:57:42:264 Memory/(20742:20742): RETARDO_SWAP correctamente: 2000
+[INFO] 02:57:42:264 Memory/(20742:20742): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 02:57:42:265 Memory/(20742:20742): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 02:57:42:265 Memory/(20742:20742): Archivo de configuracion cargado correctamente
+[INFO] 02:57:42:265 Memory/(20742:20742): Listas con tablas de paginas creada
+[INFO] 02:57:42:265 Memory/(20742:20742): Memoria Principal creada.
+[INFO] 02:57:42:265 Memory/(20742:20742): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 02:57:42:265 Memory/(20742:20742): Se creo el archivo swap
+[INFO] 02:57:42:265 Memory/(20742:20743): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 02:57:43:168 Memory/(20742:20743): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:57:43:168 Memory/(20742:20748): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 02:57:43:168 Memory/(20742:20748): SE LIBERA STREAM
+[INFO] 02:57:43:169 Memory/(20742:20748): SE LIBERA BUFFER
+[INFO] 02:57:43:169 Memory/(20742:20748): SE LIBERA PAQUETE
+[INFO] 02:57:51:763 Memory/(20742:20743): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 02:57:55:848 Memory/(20742:20765): Accion: CREACION - PID: <8> - SEGMENTO: <0> - TAMANIO: <4> paginas
+[INFO] 02:57:55:848 Memory/(20742:20765): Accion: CREACION - PID: <8> - SEGMENTO: <1> - TAMANIO: <4> paginas
+[INFO] 02:57:55:848 Memory/(20742:20765): Accion: CREACION - PID: <8> - SEGMENTO: <2> - TAMANIO: <4> paginas
+[INFO] 02:57:55:848 Memory/(20742:20765): Accion: CREACION - PID: <8> - SEGMENTO: <3> - TAMANIO: <4> paginas
+[INFO] 02:57:55:848 Memory/(20742:20765): SE LIBERA STREAM
+[INFO] 02:57:55:848 Memory/(20742:20765): SE LIBERA BUFFER
+[INFO] 02:57:55:848 Memory/(20742:20765): SE LIBERA PAQUETE
+[INFO] 03:04:29:754 Memory/(20742:20748): DISCONNECT!
+[INFO] 03:04:30:424 Memory/(20742:20742): SERVIDORES CERRADOS
+[INFO] 03:04:30:424 Memory/(20742:20742): Se borro con exito el archivo swap
+[INFO] 03:05:03:136 Memory/(21253:21253): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 03:05:03:136 Memory/(21253:21253): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 03:05:03:136 Memory/(21253:21253): TAM_PAGINA cargado correctamente: 64
+[INFO] 03:05:03:136 Memory/(21253:21253): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 03:05:03:136 Memory/(21253:21253): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 03:05:03:136 Memory/(21253:21253): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 03:05:03:136 Memory/(21253:21253): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 03:05:03:136 Memory/(21253:21253): RETARDO_SWAP correctamente: 2000
+[INFO] 03:05:03:136 Memory/(21253:21253): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 03:05:03:136 Memory/(21253:21253): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 03:05:03:136 Memory/(21253:21253): Archivo de configuracion cargado correctamente
+[INFO] 03:05:03:136 Memory/(21253:21253): Listas con tablas de paginas creada
+[INFO] 03:05:03:136 Memory/(21253:21253): Memoria Principal creada.
+[INFO] 03:05:03:136 Memory/(21253:21253): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 03:05:03:137 Memory/(21253:21253): Se creo el archivo swap
+[INFO] 03:05:03:137 Memory/(21253:21254): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 03:05:04:611 Memory/(21253:21254): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 03:05:04:611 Memory/(21253:21259): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 03:05:04:612 Memory/(21253:21259): SE LIBERA STREAM
+[INFO] 03:05:04:612 Memory/(21253:21259): SE LIBERA BUFFER
+[INFO] 03:05:04:612 Memory/(21253:21259): SE LIBERA PAQUETE
+[INFO] 03:05:05:324 Memory/(21253:21254): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 03:05:07:718 Memory/(21253:21275): Accion: CREACION - PID: <6> - SEGMENTO: <0> - TAMANIO: <4> paginas
+[INFO] 03:05:07:718 Memory/(21253:21275): Accion: CREACION - PID: <6> - SEGMENTO: <1> - TAMANIO: <4> paginas
+[INFO] 03:05:07:718 Memory/(21253:21275): Accion: CREACION - PID: <6> - SEGMENTO: <2> - TAMANIO: <4> paginas
+[INFO] 03:05:07:718 Memory/(21253:21275): Accion: CREACION - PID: <6> - SEGMENTO: <3> - TAMANIO: <4> paginas
+[INFO] 03:05:07:718 Memory/(21253:21275): SE LIBERA STREAM
+[INFO] 03:05:07:718 Memory/(21253:21275): SE LIBERA BUFFER
+[INFO] 03:05:07:718 Memory/(21253:21275): SE LIBERA PAQUETE
+[INFO] 03:07:41:042 Memory/(21253:21259): DISCONNECT!
+[INFO] 03:07:41:896 Memory/(21253:21253): SERVIDORES CERRADOS
+[INFO] 03:07:41:896 Memory/(21253:21253): Se borro con exito el archivo swap
+[INFO] 03:07:49:036 Memory/(21459:21459): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 03:07:49:037 Memory/(21459:21459): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 03:07:49:037 Memory/(21459:21459): TAM_PAGINA cargado correctamente: 64
+[INFO] 03:07:49:037 Memory/(21459:21459): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 03:07:49:037 Memory/(21459:21459): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 03:07:49:037 Memory/(21459:21459): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 03:07:49:037 Memory/(21459:21459): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 03:07:49:037 Memory/(21459:21459): RETARDO_SWAP correctamente: 2000
+[INFO] 03:07:49:037 Memory/(21459:21459): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 03:07:49:037 Memory/(21459:21459): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 03:07:49:037 Memory/(21459:21459): Archivo de configuracion cargado correctamente
+[INFO] 03:07:49:037 Memory/(21459:21459): Listas con tablas de paginas creada
+[INFO] 03:07:49:037 Memory/(21459:21459): Memoria Principal creada.
+[INFO] 03:07:49:037 Memory/(21459:21459): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 03:07:49:038 Memory/(21459:21459): Se creo el archivo swap
+[INFO] 03:07:49:038 Memory/(21459:21460): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 03:07:50:783 Memory/(21459:21460): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 03:07:50:784 Memory/(21459:21498): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 03:07:50:784 Memory/(21459:21498): SE LIBERA STREAM
+[INFO] 03:07:50:784 Memory/(21459:21498): SE LIBERA BUFFER
+[INFO] 03:07:50:784 Memory/(21459:21498): SE LIBERA PAQUETE
+[INFO] 03:07:52:478 Memory/(21459:21460): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 03:07:54:251 Memory/(21459:21516): Accion: CREACION - PID: <6> - SEGMENTO: <0> - TAMANIO: <4> paginas
+[INFO] 03:07:54:251 Memory/(21459:21516): Accion: CREACION - PID: <6> - SEGMENTO: <1> - TAMANIO: <4> paginas
+[INFO] 03:07:54:251 Memory/(21459:21516): Accion: CREACION - PID: <6> - SEGMENTO: <2> - TAMANIO: <4> paginas
+[INFO] 03:07:54:251 Memory/(21459:21516): Accion: CREACION - PID: <6> - SEGMENTO: <3> - TAMANIO: <4> paginas
+[INFO] 03:07:54:251 Memory/(21459:21516): SE LIBERA STREAM
+[INFO] 03:07:54:251 Memory/(21459:21516): SE LIBERA BUFFER
+[INFO] 03:07:54:251 Memory/(21459:21516): SE LIBERA PAQUETE
+[INFO] 03:08:26:902 Memory/(21459:21498): DISCONNECT!
+[INFO] 03:08:27:718 Memory/(21459:21459): SERVIDORES CERRADOS
+[INFO] 03:08:27:718 Memory/(21459:21459): Se borro con exito el archivo swap
+[INFO] 03:08:34:194 Memory/(21679:21679): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 03:08:34:194 Memory/(21679:21679): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 03:08:34:194 Memory/(21679:21679): TAM_PAGINA cargado correctamente: 64
+[INFO] 03:08:34:194 Memory/(21679:21679): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 03:08:34:194 Memory/(21679:21679): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 03:08:34:194 Memory/(21679:21679): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 03:08:34:194 Memory/(21679:21679): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 03:08:34:194 Memory/(21679:21679): RETARDO_SWAP correctamente: 2000
+[INFO] 03:08:34:194 Memory/(21679:21679): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 03:08:34:194 Memory/(21679:21679): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 03:08:34:195 Memory/(21679:21679): Archivo de configuracion cargado correctamente
+[INFO] 03:08:34:195 Memory/(21679:21679): Listas con tablas de paginas creada
+[INFO] 03:08:34:195 Memory/(21679:21679): Memoria Principal creada.
+[INFO] 03:08:34:195 Memory/(21679:21679): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 03:08:34:195 Memory/(21679:21679): Se creo el archivo swap
+[INFO] 03:08:34:196 Memory/(21679:21680): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 03:08:35:594 Memory/(21679:21680): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 03:08:35:595 Memory/(21679:21686): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 03:08:35:595 Memory/(21679:21686): SE LIBERA STREAM
+[INFO] 03:08:35:595 Memory/(21679:21686): SE LIBERA BUFFER
+[INFO] 03:08:35:595 Memory/(21679:21686): SE LIBERA PAQUETE
+[INFO] 03:08:37:139 Memory/(21679:21680): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 03:08:39:025 Memory/(21679:21699): Accion: CREACION - PID: <6> - SEGMENTO: <0> - TAMANIO: <4> paginas
+[INFO] 03:08:39:025 Memory/(21679:21699): Accion: CREACION - PID: <6> - SEGMENTO: <1> - TAMANIO: <4> paginas
+[INFO] 03:08:39:025 Memory/(21679:21699): Accion: CREACION - PID: <6> - SEGMENTO: <2> - TAMANIO: <4> paginas
+[INFO] 03:08:39:025 Memory/(21679:21699): Accion: CREACION - PID: <6> - SEGMENTO: <3> - TAMANIO: <4> paginas
+[INFO] 03:08:39:025 Memory/(21679:21699): SE LIBERA STREAM
+[INFO] 03:08:39:025 Memory/(21679:21699): SE LIBERA BUFFER
+[INFO] 03:08:39:025 Memory/(21679:21699): SE LIBERA PAQUETE
+[INFO] 03:09:08:206 Memory/(21679:21686): DISCONNECT!
+[INFO] 03:09:11:258 Memory/(21679:21680): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 03:09:11:258 Memory/(21679:21854): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 03:09:11:258 Memory/(21679:21854): SE LIBERA STREAM
+[INFO] 03:09:11:258 Memory/(21679:21854): SE LIBERA BUFFER
+[INFO] 03:09:11:258 Memory/(21679:21854): SE LIBERA PAQUETE
+[INFO] 03:09:13:604 Memory/(21679:21699): DISCONNECT!
+[INFO] 03:09:14:904 Memory/(21679:21680): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 03:09:17:965 Memory/(21679:21870): Accion: CREACION - PID: <5> - SEGMENTO: <4> - TAMANIO: <4> paginas
+[INFO] 03:09:17:965 Memory/(21679:21870): Accion: CREACION - PID: <5> - SEGMENTO: <5> - TAMANIO: <4> paginas
+[INFO] 03:09:17:966 Memory/(21679:21870): Accion: CREACION - PID: <5> - SEGMENTO: <6> - TAMANIO: <4> paginas
+[INFO] 03:09:17:966 Memory/(21679:21870): Accion: CREACION - PID: <5> - SEGMENTO: <7> - TAMANIO: <4> paginas
+[INFO] 03:09:17:966 Memory/(21679:21870): SE LIBERA STREAM
+[INFO] 03:09:17:966 Memory/(21679:21870): SE LIBERA BUFFER
+[INFO] 03:09:17:966 Memory/(21679:21870): SE LIBERA PAQUETE
+[INFO] 03:09:20:056 Memory/(21679:21854): DISCONNECT!
+[INFO] 03:10:38:226 Memory/(21679:21680): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 03:10:38:227 Memory/(21679:22141): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 03:10:38:227 Memory/(21679:22141): SE LIBERA STREAM
+[INFO] 03:10:38:227 Memory/(21679:22141): SE LIBERA BUFFER
+[INFO] 03:10:38:227 Memory/(21679:22141): SE LIBERA PAQUETE
+[INFO] 03:10:39:511 Memory/(21679:21870): DISCONNECT!
+[INFO] 03:10:41:347 Memory/(21679:21680): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 03:10:43:707 Memory/(21679:22155): Accion: CREACION - PID: <5> - SEGMENTO: <8> - TAMANIO: <4> paginas
+[INFO] 03:10:43:707 Memory/(21679:22155): Accion: CREACION - PID: <5> - SEGMENTO: <9> - TAMANIO: <4> paginas
+[INFO] 03:10:43:707 Memory/(21679:22155): Accion: CREACION - PID: <5> - SEGMENTO: <10> - TAMANIO: <4> paginas
+[INFO] 03:10:43:707 Memory/(21679:22155): Accion: CREACION - PID: <5> - SEGMENTO: <11> - TAMANIO: <4> paginas
+[INFO] 03:10:43:707 Memory/(21679:22155): SE LIBERA STREAM
+[INFO] 03:10:43:707 Memory/(21679:22155): SE LIBERA BUFFER
+[INFO] 03:10:43:707 Memory/(21679:22155): SE LIBERA PAQUETE
+[INFO] 03:10:45:794 Memory/(21679:22141): DISCONNECT!
+[INFO] 03:24:04:600 Memory/(21679:21680): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 03:24:04:600 Memory/(21679:22914): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 03:24:04:600 Memory/(21679:22914): SE LIBERA STREAM
+[INFO] 03:24:04:600 Memory/(21679:22914): SE LIBERA BUFFER
+[INFO] 03:24:04:600 Memory/(21679:22914): SE LIBERA PAQUETE
+[INFO] 03:24:06:790 Memory/(21679:22155): DISCONNECT!
+[INFO] 03:24:40:979 Memory/(21679:21679): SERVIDORES CERRADOS
+[INFO] 03:24:40:980 Memory/(21679:21679): Se borro con exito el archivo swap
+[INFO] 03:24:41:540 Memory/(23129:23129): PUERTO_ESCUCHA Cargada Correctamente: 8002
+[INFO] 03:24:41:540 Memory/(23129:23129): TAM_MEMORIA Cargado Correctamente: 4096
+[INFO] 03:24:41:540 Memory/(23129:23129): TAM_PAGINA cargado correctamente: 64
+[INFO] 03:24:41:540 Memory/(23129:23129): ENTRADAS_POR_TABLA Cargada Correctamente: 4
+[INFO] 03:24:41:540 Memory/(23129:23129): RETARDO_MEMORIA Cargado Correctamente: 1000
+[INFO] 03:24:41:541 Memory/(23129:23129): ALGORITMO_REEMPLAZO cargado correctamente: CLOCK-M
+[INFO] 03:24:41:541 Memory/(23129:23129): MARCOS_POR_PROCESO Cargada Correctamente: 4
+[INFO] 03:24:41:541 Memory/(23129:23129): RETARDO_SWAP correctamente: 2000
+[INFO] 03:24:41:541 Memory/(23129:23129): PATH_SWAP Cargada Correctamente: /home/utnso/swap.bin
+[INFO] 03:24:41:541 Memory/(23129:23129): TAMANIO_SWAP Cargado Correctamente: 10240
+[INFO] 03:24:41:541 Memory/(23129:23129): Archivo de configuracion cargado correctamente
+[INFO] 03:24:41:541 Memory/(23129:23129): Listas con tablas de paginas creada
+[INFO] 03:24:41:541 Memory/(23129:23129): Memoria Principal creada.
+[INFO] 03:24:41:541 Memory/(23129:23129): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 03:24:41:541 Memory/(23129:23129): Se creo el archivo swap
+[INFO] 03:24:41:541 Memory/(23129:23130): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 03:35:43:949 Memory/(23129:23129): SERVIDORES CERRADOS
+[INFO] 03:35:43:949 Memory/(23129:23129): Se borro con exito el archivo swap
+[INFO] 03:35:49:330 Memory/(24286:24286): Archivo de configuracion cargado correctamente
+[INFO] 03:35:49:331 Memory/(24286:24286): Listas con tablas de paginas creada
+[INFO] 03:35:49:331 Memory/(24286:24286): Memoria Principal creada.
+[INFO] 03:35:49:331 Memory/(24286:24286): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 03:35:49:331 Memory/(24286:24286): Se creo el archivo swap
+[INFO] 03:35:49:331 Memory/(24286:24287): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 03:36:36:583 Memory/(24286:24287): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 03:36:36:583 Memory/(24286:25129): Como handshake, CPU me solicito entradas por tabla y tamanio de las paginas
+[INFO] 03:36:36:583 Memory/(24286:25129): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 03:37:12:304 Memory/(24286:24286): SERVIDORES CERRADOS
+[INFO] 03:37:12:305 Memory/(24286:24286): Se borro con exito el archivo swap
+[INFO] 03:41:59:415 Memory/(27337:27337): Archivo de configuracion cargado correctamente
+[INFO] 03:41:59:416 Memory/(27337:27337): Listas con tablas de paginas creada
+[INFO] 03:41:59:416 Memory/(27337:27337): Memoria Principal creada.
+[INFO] 03:41:59:416 Memory/(27337:27337): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 03:41:59:416 Memory/(27337:27337): Se creo el archivo swap
+[INFO] 03:41:59:416 Memory/(27337:27338): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 04:08:35:422 Memory/(27337:27338): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 04:08:47:165 Memory/(27337:27338): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 04:08:47:166 Memory/(27337:33465): Como handshake, CPU me solicito entradas por tabla y tamanio de las paginas
+[INFO] 04:08:47:168 Memory/(27337:33465): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 04:08:50:296 Memory/(27337:27337): SERVIDORES CERRADOS
+[INFO] 04:08:50:296 Memory/(27337:27337): Se borro con exito el archivo swap
+[INFO] 04:08:57:284 Memory/(33683:33683): Archivo de configuracion cargado correctamente
+[INFO] 04:08:57:284 Memory/(33683:33683): Listas con tablas de paginas creada
+[INFO] 04:08:57:284 Memory/(33683:33683): Memoria Principal creada.
+[INFO] 04:08:57:284 Memory/(33683:33683): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 04:08:57:284 Memory/(33683:33683): Se creo el archivo swap
+[INFO] 04:08:57:285 Memory/(33683:33684): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 04:08:58:079 Memory/(33683:33684): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 04:08:58:079 Memory/(33683:33712): Como handshake, CPU me solicito entradas por tabla y tamanio de las paginas
+[INFO] 04:08:58:079 Memory/(33683:33712): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 04:09:02:988 Memory/(33683:33684): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 04:09:11:026 Memory/(33683:33798): Accion: CREACION - PID: <5> - SEGMENTO: <0> - TAMANIO: <4> paginas
+[INFO] 04:09:11:026 Memory/(33683:33798): Accion: CREACION - PID: <5> - SEGMENTO: <1> - TAMANIO: <4> paginas
+[INFO] 04:09:11:026 Memory/(33683:33798): Accion: CREACION - PID: <5> - SEGMENTO: <2> - TAMANIO: <4> paginas
+[INFO] 04:09:11:026 Memory/(33683:33798): Accion: CREACION - PID: <5> - SEGMENTO: <3> - TAMANIO: <4> paginas
+[INFO] 04:09:45:474 Memory/(33683:33798): TODO: se cargo datos de la pagina en el marco: <%>
+[INFO] 04:09:45:474 Memory/(33683:33798): Para la pagina <1>, del segmento: <2>, se cargo el marco: <0>
+[INFO] 04:09:45:474 Memory/(33683:33798): Se aviso a Kernel que la pagina correspondiente al PID: <5> fue cargada
+[INFO] 04:14:55:150 Memory/(33683:33798): DISCONNECT!
+[INFO] 04:22:42:546 Memory/(33683:33683): SERVIDORES CERRADOS
+[INFO] 04:22:42:546 Memory/(33683:33683): Se borro con exito el archivo swap
+[INFO] 04:23:10:370 Memory/(35985:35985): Archivo de configuracion cargado correctamente
+[INFO] 04:23:10:370 Memory/(35985:35985): Listas con tablas de paginas creada
+[INFO] 04:23:10:370 Memory/(35985:35985): Memoria Principal creada.
+[INFO] 04:23:10:370 Memory/(35985:35985): Archivos para la planificacion y sincronia de memoria, creados exitosamente
+[INFO] 04:23:10:370 Memory/(35985:35985): Se creo el archivo swap
+[INFO] 04:23:10:371 Memory/(35985:35986): Escuchando en 0.0.0.0:8002 (SERVER MEMORIA)
+
+[INFO] 04:23:13:010 Memory/(35985:35986): Cliente conectado (a SERVER MEMORIA)
+
+[INFO] 04:23:13:011 Memory/(35985:36025): Como handshake, CPU me solicito entradas por tabla y tamanio de las paginas
+[INFO] 04:23:13:011 Memory/(35985:36025): Se envio a CPU lo que solicito, entradas por tabla: <4> y tamanio de pagina: <64>
+[INFO] 04:24:23:012 Memory/(35985:35986): Cliente conectado (a SERVER MEMORIA)
+
