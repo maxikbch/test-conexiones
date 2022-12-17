@@ -168,11 +168,11 @@ bool generar_conexiones() {
     pthread_create(&conexion_memoria, NULL, conectarConMemoria, NULL);
     activar_cpu();
     //pthread_create(&ciclo_instrucciones_thread, NULL, ciclo_instrucciones, NULL);
-    pthread_create(&crear_server_dispatch, NULL, crearServidorDispatch, NULL);
-    pthread_create(&crear_server_interrupt, NULL, crearServidorInterrupt, NULL);
+    //pthread_create(&crear_server_dispatch, NULL, crearServidorDispatch, NULL);
+    //pthread_create(&crear_server_interrupt, NULL, crearServidorInterrupt, NULL);
     //pthread_join(ciclo_instrucciones_thread, NULL);
-    pthread_join(crear_server_dispatch, NULL);
-    pthread_join(crear_server_interrupt, NULL);
+   //pthread_join(crear_server_dispatch, NULL);
+    //pthread_join(crear_server_interrupt, NULL);
     pthread_join(conexion_memoria, (void **) &estado);
     return estado;
 
